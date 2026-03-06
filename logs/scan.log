@@ -4391,3 +4391,49 @@
 [2026-03-06 16:02:47] [INFO   ] Scanner nettoyé
 [2026-03-06 16:02:47] [INFO   ] AV-Shield terminé
 [2026-03-06 16:02:47] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 16:07:57] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 16:07:57] [INFO   ] AV-Shield démarré
+[2026-03-06 16:07:57] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 16:07:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 16:07:57] [INFO   ] Base de données initialisée
+[2026-03-06 16:08:24] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 16:08:24] [INFO   ] Quarantaine initialisée
+[2026-03-06 16:08:24] [INFO   ] Scanner initialisé
+[2026-03-06 16:08:24] [INFO   ] Corrélation: testclean.py → CLEAN (confiance: 90%)
+[2026-03-06 16:08:24] [INFO   ] FILE: testclean.py                             | RESULT: CLEAN      | SHA256: bf967b3b0ca7a4b3... | SIZE: 144 bytes
+[2026-03-06 16:08:24] [INFO   ] Rapport JSON généré
+[2026-03-06 16:08:24] [INFO   ] Rapport HTML généré
+[2026-03-06 16:08:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 16:08:24] [INFO   ] Base de données initialisée
+[2026-03-06 16:08:25] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 16:08:25] [INFO   ] Base de données fermée
+[2026-03-06 16:08:25] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 16:08:25] [INFO   ] Base de données fermée
+[2026-03-06 16:08:25] [INFO   ] Scanner nettoyé
+[2026-03-06 16:08:25] [INFO   ] AV-Shield terminé
+[2026-03-06 16:08:25] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 16:09:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 16:09:54] [INFO   ] AV-Shield démarré
+[2026-03-06 16:09:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 16:09:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 16:09:54] [INFO   ] Base de données initialisée
+[2026-03-06 16:10:28] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 16:10:28] [INFO   ] Quarantaine initialisée
+[2026-03-06 16:10:28] [INFO   ] Scanner initialisé
+[2026-03-06 16:10:28] [AUDIT  ] QUARANTINE: /tmp/virus_1772813371.com → quarantine/QRN_20260306_161028_virus_1772813371.com.quar [Eicar-Test-Signature]
+[2026-03-06 16:10:29] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 16:10:29] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 16:10:29] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 16:10:29] [THREAT ] FILE: virus_1772813371.com                     | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 16:10:29] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/virus_1772813371.com
+[2026-03-06 16:10:29] [INFO   ] Rapport JSON généré
+[2026-03-06 16:10:29] [INFO   ] Rapport HTML généré
+[2026-03-06 16:10:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 16:10:29] [INFO   ] Base de données initialisée
+[2026-03-06 16:10:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 16:10:29] [INFO   ] Base de données fermée
+[2026-03-06 16:10:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 16:10:30] [INFO   ] Base de données fermée
+[2026-03-06 16:10:30] [INFO   ] Scanner nettoyé
+[2026-03-06 16:10:30] [INFO   ] AV-Shield terminé
+[2026-03-06 16:10:30] [INFO   ] === AV-Shield Logger fermé ===
