@@ -94,8 +94,10 @@ def api_scan():
     # Toujours générer le rapport JSON pour afficher les détails
     cmd.append('--report')
 
-    if want_html:
-        cmd.append('--html')
+    # Ne pas passer --html au binaire pour éviter d'écraser --report JSON
+    # Le rapport HTML sera cherché séparément
+    # if want_html:
+    #     cmd.append('--html')
 
     try:
         result = subprocess.run(
@@ -106,7 +108,7 @@ def api_scan():
             cwd=os.path.dirname(os.path.abspath(AVSHIELD_BIN))
         )
         import time
-        time.sleep(0.5)
+        time.sleep(1.5)
         report_json = None
         report_json_path = None
         report_html_path = None
@@ -136,31 +138,28 @@ def api_scan():
             if html_reports:
                 report_html_path = max(html_reports, key=os.path.getmtime)
 
+        import re as _re
         import time
+        time.sleep(1.5)
         json_path = None
         json_file = None
-        json_reports = [
-            f for f in os.listdir(REPORTS_DIR)
-            if f.startswith("RPT_") and f.endswith(".json")
-        ]
-        json_path = None
-        json_file = None
-        if json_reports:
-            latest = max(
-                (os.path.join(REPORTS_DIR, f) for f in json_reports),
-                key=os.path.getmtime
-            )
-            json_path = latest
-            json_file = os.path.basename(json_path)
+        _output_clean = _re.sub(r'\x1b\[[0-9;]*m', '', result.stdout + result.stderr)
+        # Chercher rapport JSON dans stdout
+        _match = _re.search(r'(RPT_\d+_\d+)\.json', _output_clean)
+        if not _match:
+            # Chercher depuis rapport HTML (meme nom base)
+            _match_html = _re.search(r'(RPT_\d+_\d+)\.html', _output_clean)
+            if _match_html:
+                _match = _match_html
+        if _match:
+            json_file = _match.group(1) + '.json'
+            json_path = os.path.join(REPORTS_DIR, json_file)
 
-        # Utiliser seulement si généré dans les 10 dernières secondes
-        import time
-        time.sleep(0.5)
-        json_path = latest
-        json_file = os.path.basename(json_path)
+
 
         # Trouver dernier HTML
         html_path = None
+        html_file = None
         html_reports = [
             f for f in os.listdir(REPORTS_DIR)
             if f.startswith("RPT_") and f.endswith(".html")
@@ -171,8 +170,6 @@ def api_scan():
                 key=os.path.getmtime
             )
             html_file = os.path.basename(html_path)
-        else:
-            html_file = None
 
         # Chercher si le fichier a été mis en quarantaine (par basename)
         quarantined = False

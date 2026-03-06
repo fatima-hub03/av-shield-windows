@@ -3580,3 +3580,747 @@
 [2026-03-05 16:07:13] [INFO   ] Scanner nettoyé
 [2026-03-05 16:07:13] [INFO   ] AV-Shield terminé
 [2026-03-05 16:07:13] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:04:21] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:04:21] [INFO   ] AV-Shield démarré
+[2026-03-05 17:04:21] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:04:21] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:04:21] [INFO   ] Base de données initialisée
+[2026-03-05 17:04:52] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:04:52] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:04:52] [INFO   ] Scanner initialisé
+[2026-03-05 17:04:52] [INFO   ] Corrélation: suspicious.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:04:52] [AUDIT  ] QUARANTINE: /tmp/suspicious.py → quarantine/QRN_20260305_170452_suspicious.py.quar [None]
+[2026-03-05 17:04:52] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:04:52] [WARNING] FILE: suspicious.py                            | RESULT: SUSPICIOUS | SHA256: 9bd7beb013dfb2aa... | SIZE: 402 bytes
+[2026-03-05 17:04:52] [INFO   ] Rapport HTML généré
+[2026-03-05 17:04:52] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:04:52] [INFO   ] Base de données initialisée
+[2026-03-05 17:04:52] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:04:52] [INFO   ] Base de données fermée
+[2026-03-05 17:04:53] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:04:53] [INFO   ] Base de données fermée
+[2026-03-05 17:04:53] [INFO   ] Scanner nettoyé
+[2026-03-05 17:04:53] [INFO   ] AV-Shield terminé
+[2026-03-05 17:04:53] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:06:24] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:06:24] [INFO   ] AV-Shield démarré
+[2026-03-05 17:06:24] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:06:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:06:24] [INFO   ] Base de données initialisée
+[2026-03-05 17:06:37] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:06:37] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:06:37] [INFO   ] Scanner initialisé
+[2026-03-05 17:06:37] [INFO   ] Corrélation: suspicious.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:06:37] [AUDIT  ] QUARANTINE: /tmp/suspicious.py → quarantine/QRN_20260305_170637_suspicious.py.quar [None]
+[2026-03-05 17:06:37] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:06:37] [WARNING] FILE: suspicious.py                            | RESULT: SUSPICIOUS | SHA256: 9bd7beb013dfb2aa... | SIZE: 402 bytes
+[2026-03-05 17:06:37] [INFO   ] Rapport HTML généré
+[2026-03-05 17:06:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:06:37] [INFO   ] Base de données initialisée
+[2026-03-05 17:06:37] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:06:37] [INFO   ] Base de données fermée
+[2026-03-05 17:06:38] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:06:38] [INFO   ] Base de données fermée
+[2026-03-05 17:06:38] [INFO   ] Scanner nettoyé
+[2026-03-05 17:06:38] [INFO   ] AV-Shield terminé
+[2026-03-05 17:06:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:20:57] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:20:57] [INFO   ] AV-Shield démarré
+[2026-03-05 17:20:57] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:20:57] [INFO   ] AV-Shield terminé
+[2026-03-05 17:20:57] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:22:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:22:13] [INFO   ] AV-Shield démarré
+[2026-03-05 17:22:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:22:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:22:13] [INFO   ] Base de données initialisée
+[2026-03-05 17:22:24] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:22:24] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:22:24] [INFO   ] Scanner initialisé
+[2026-03-05 17:22:24] [INFO   ] Corrélation: testsuspect.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:22:24] [AUDIT  ] QUARANTINE: /tmp/testsuspect.py → quarantine/QRN_20260305_172224_testsuspect.py.quar [None]
+[2026-03-05 17:22:24] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:22:24] [WARNING] FILE: testsuspect.py                           | RESULT: SUSPICIOUS | SHA256: 9bd7beb013dfb2aa... | SIZE: 402 bytes
+[2026-03-05 17:22:24] [INFO   ] Rapport JSON généré
+[2026-03-05 17:22:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:22:24] [INFO   ] Base de données initialisée
+[2026-03-05 17:22:24] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:22:24] [INFO   ] Base de données fermée
+[2026-03-05 17:22:24] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:22:24] [INFO   ] Base de données fermée
+[2026-03-05 17:22:24] [INFO   ] Scanner nettoyé
+[2026-03-05 17:22:24] [INFO   ] AV-Shield terminé
+[2026-03-05 17:22:24] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:31:16] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:31:16] [INFO   ] AV-Shield démarré
+[2026-03-05 17:31:16] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:31:16] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:31:16] [INFO   ] Base de données initialisée
+[2026-03-05 17:31:29] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:31:29] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:31:29] [INFO   ] Scanner initialisé
+[2026-03-05 17:31:29] [INFO   ] Corrélation: testsuspect.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:31:29] [AUDIT  ] QUARANTINE: /tmp/testsuspect.py → quarantine/QRN_20260305_173129_testsuspect.py.quar [None]
+[2026-03-05 17:31:29] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:31:29] [WARNING] FILE: testsuspect.py                           | RESULT: SUSPICIOUS | SHA256: 9bd7beb013dfb2aa... | SIZE: 402 bytes
+[2026-03-05 17:31:29] [INFO   ] Rapport HTML généré
+[2026-03-05 17:31:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:31:29] [INFO   ] Base de données initialisée
+[2026-03-05 17:31:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:31:29] [INFO   ] Base de données fermée
+[2026-03-05 17:31:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:31:30] [INFO   ] Base de données fermée
+[2026-03-05 17:31:30] [INFO   ] Scanner nettoyé
+[2026-03-05 17:31:30] [INFO   ] AV-Shield terminé
+[2026-03-05 17:31:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:39:19] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:39:19] [INFO   ] AV-Shield démarré
+[2026-03-05 17:39:19] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:39:19] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:39:19] [INFO   ] Base de données initialisée
+[2026-03-05 17:39:34] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:39:34] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:39:34] [INFO   ] Scanner initialisé
+[2026-03-05 17:39:34] [INFO   ] Corrélation: keylogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:39:34] [AUDIT  ] QUARANTINE: /tmp/keylogger.py → quarantine/QRN_20260305_173934_keylogger.py.quar [None]
+[2026-03-05 17:39:34] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:39:34] [WARNING] FILE: keylogger.py                             | RESULT: SUSPICIOUS | SHA256: 8dff2a3ac3c86fd9... | SIZE: 646 bytes
+[2026-03-05 17:39:34] [INFO   ] Rapport HTML généré
+[2026-03-05 17:39:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:39:34] [INFO   ] Base de données initialisée
+[2026-03-05 17:39:34] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:39:34] [INFO   ] Base de données fermée
+[2026-03-05 17:39:34] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:39:34] [INFO   ] Base de données fermée
+[2026-03-05 17:39:34] [INFO   ] Scanner nettoyé
+[2026-03-05 17:39:34] [INFO   ] AV-Shield terminé
+[2026-03-05 17:39:34] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:42:22] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:42:22] [INFO   ] AV-Shield démarré
+[2026-03-05 17:42:22] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:42:22] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:42:22] [INFO   ] Base de données initialisée
+[2026-03-05 17:42:29] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:42:29] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:42:29] [INFO   ] Scanner initialisé
+[2026-03-05 17:42:29] [INFO   ] Corrélation: keylogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:42:29] [AUDIT  ] QUARANTINE: /tmp/keylogger.py → quarantine/QRN_20260305_174229_keylogger.py.quar [None]
+[2026-03-05 17:42:30] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:42:30] [WARNING] FILE: keylogger.py                             | RESULT: SUSPICIOUS | SHA256: 8dff2a3ac3c86fd9... | SIZE: 646 bytes
+[2026-03-05 17:42:30] [INFO   ] Rapport HTML généré
+[2026-03-05 17:42:30] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:42:30] [INFO   ] Base de données initialisée
+[2026-03-05 17:42:30] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:42:30] [INFO   ] Base de données fermée
+[2026-03-05 17:42:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:42:30] [INFO   ] Base de données fermée
+[2026-03-05 17:42:30] [INFO   ] Scanner nettoyé
+[2026-03-05 17:42:30] [INFO   ] AV-Shield terminé
+[2026-03-05 17:42:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:44:17] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:44:17] [INFO   ] AV-Shield démarré
+[2026-03-05 17:44:17] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:44:17] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:44:17] [INFO   ] Base de données initialisée
+[2026-03-05 17:44:30] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:44:30] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:44:30] [INFO   ] Scanner initialisé
+[2026-03-05 17:44:30] [INFO   ] Corrélation: keylogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:44:30] [AUDIT  ] QUARANTINE: /tmp/keylogger.py → quarantine/QRN_20260305_174430_keylogger.py.quar [None]
+[2026-03-05 17:44:30] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:44:30] [WARNING] FILE: keylogger.py                             | RESULT: SUSPICIOUS | SHA256: f11836f7db21158c... | SIZE: 612 bytes
+[2026-03-05 17:44:30] [INFO   ] Rapport HTML généré
+[2026-03-05 17:44:30] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:44:30] [INFO   ] Base de données initialisée
+[2026-03-05 17:44:30] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:44:30] [INFO   ] Base de données fermée
+[2026-03-05 17:44:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:44:30] [INFO   ] Base de données fermée
+[2026-03-05 17:44:30] [INFO   ] Scanner nettoyé
+[2026-03-05 17:44:30] [INFO   ] AV-Shield terminé
+[2026-03-05 17:44:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:45:33] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:45:33] [INFO   ] AV-Shield démarré
+[2026-03-05 17:45:33] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:45:33] [INFO   ] AV-Shield terminé
+[2026-03-05 17:45:33] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:45:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:45:54] [INFO   ] AV-Shield démarré
+[2026-03-05 17:45:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:45:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:45:54] [INFO   ] Base de données initialisée
+[2026-03-05 17:46:02] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:46:02] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:46:02] [INFO   ] Scanner initialisé
+[2026-03-05 17:46:02] [INFO   ] Corrélation: keylogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:46:02] [AUDIT  ] QUARANTINE: /tmp/keylogger.py → quarantine/QRN_20260305_174602_keylogger.py.quar [None]
+[2026-03-05 17:46:02] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:46:02] [WARNING] FILE: keylogger.py                             | RESULT: SUSPICIOUS | SHA256: f11836f7db21158c... | SIZE: 612 bytes
+[2026-03-05 17:46:02] [INFO   ] Rapport JSON généré
+[2026-03-05 17:46:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:46:02] [INFO   ] Base de données initialisée
+[2026-03-05 17:46:02] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:46:03] [INFO   ] Base de données fermée
+[2026-03-05 17:46:03] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:46:03] [INFO   ] Base de données fermée
+[2026-03-05 17:46:03] [INFO   ] Scanner nettoyé
+[2026-03-05 17:46:03] [INFO   ] AV-Shield terminé
+[2026-03-05 17:46:03] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:47:57] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:47:57] [INFO   ] AV-Shield démarré
+[2026-03-05 17:47:57] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:47:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:47:57] [INFO   ] Base de données initialisée
+[2026-03-05 17:48:05] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:48:05] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:48:05] [INFO   ] Scanner initialisé
+[2026-03-05 17:48:05] [INFO   ] Corrélation: testkeylogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:48:05] [AUDIT  ] QUARANTINE: /tmp/testkeylogger.py → quarantine/QRN_20260305_174805_testkeylogger.py.quar [None]
+[2026-03-05 17:48:06] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:48:06] [WARNING] FILE: testkeylogger.py                         | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 17:48:06] [INFO   ] Rapport JSON généré
+[2026-03-05 17:48:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:48:06] [INFO   ] Base de données initialisée
+[2026-03-05 17:48:06] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:48:06] [INFO   ] Base de données fermée
+[2026-03-05 17:48:06] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:48:06] [INFO   ] Base de données fermée
+[2026-03-05 17:48:06] [INFO   ] Scanner nettoyé
+[2026-03-05 17:48:06] [INFO   ] AV-Shield terminé
+[2026-03-05 17:48:06] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:50:39] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:50:39] [INFO   ] AV-Shield démarré
+[2026-03-05 17:50:39] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:50:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:50:39] [INFO   ] Base de données initialisée
+[2026-03-05 17:50:47] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:50:47] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:50:47] [INFO   ] Scanner initialisé
+[2026-03-05 17:50:47] [INFO   ] Corrélation: testklogger.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:50:47] [AUDIT  ] QUARANTINE: /tmp/testklogger.py → quarantine/QRN_20260305_175047_testklogger.py.quar [None]
+[2026-03-05 17:50:48] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:50:48] [WARNING] FILE: testklogger.py                           | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 17:50:48] [INFO   ] Rapport HTML généré
+[2026-03-05 17:50:48] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:50:48] [INFO   ] Base de données initialisée
+[2026-03-05 17:50:48] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:50:48] [INFO   ] Base de données fermée
+[2026-03-05 17:50:48] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:50:48] [INFO   ] Base de données fermée
+[2026-03-05 17:50:48] [INFO   ] Scanner nettoyé
+[2026-03-05 17:50:48] [INFO   ] AV-Shield terminé
+[2026-03-05 17:50:48] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:56:49] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:56:49] [INFO   ] AV-Shield démarré
+[2026-03-05 17:56:49] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:56:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:56:49] [INFO   ] Base de données initialisée
+[2026-03-05 17:57:02] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:57:02] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:57:02] [INFO   ] Scanner initialisé
+[2026-03-05 17:57:02] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:57:02] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_175702_test.py.quar [None]
+[2026-03-05 17:57:02] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:57:02] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 17:57:02] [INFO   ] Rapport HTML généré
+[2026-03-05 17:57:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:57:02] [INFO   ] Base de données initialisée
+[2026-03-05 17:57:02] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:57:02] [INFO   ] Base de données fermée
+[2026-03-05 17:57:03] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:57:03] [INFO   ] Base de données fermée
+[2026-03-05 17:57:03] [INFO   ] Scanner nettoyé
+[2026-03-05 17:57:03] [INFO   ] AV-Shield terminé
+[2026-03-05 17:57:03] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:58:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:58:08] [INFO   ] AV-Shield démarré
+[2026-03-05 17:58:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:58:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:58:08] [INFO   ] Base de données initialisée
+[2026-03-05 17:58:22] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 17:58:22] [INFO   ] Quarantaine initialisée
+[2026-03-05 17:58:22] [INFO   ] Scanner initialisé
+[2026-03-05 17:58:22] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 17:58:22] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_175822_test.py.quar [None]
+[2026-03-05 17:58:22] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 17:58:22] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 17:58:22] [INFO   ] Rapport HTML généré
+[2026-03-05 17:58:22] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:58:22] [INFO   ] Base de données initialisée
+[2026-03-05 17:58:22] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 17:58:22] [INFO   ] Base de données fermée
+[2026-03-05 17:58:22] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 17:58:22] [INFO   ] Base de données fermée
+[2026-03-05 17:58:22] [INFO   ] Scanner nettoyé
+[2026-03-05 17:58:22] [INFO   ] AV-Shield terminé
+[2026-03-05 17:58:22] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 17:59:55] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 17:59:55] [INFO   ] AV-Shield démarré
+[2026-03-05 17:59:55] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 17:59:55] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 17:59:55] [INFO   ] Base de données initialisée
+[2026-03-05 18:00:07] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 18:00:07] [INFO   ] Quarantaine initialisée
+[2026-03-05 18:00:07] [INFO   ] Scanner initialisé
+[2026-03-05 18:00:07] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 18:00:07] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_180007_test.py.quar [None]
+[2026-03-05 18:00:07] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 18:00:07] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 18:00:07] [INFO   ] Rapport HTML généré
+[2026-03-05 18:00:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:00:07] [INFO   ] Base de données initialisée
+[2026-03-05 18:00:07] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 18:00:07] [INFO   ] Base de données fermée
+[2026-03-05 18:00:08] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 18:00:08] [INFO   ] Base de données fermée
+[2026-03-05 18:00:08] [INFO   ] Scanner nettoyé
+[2026-03-05 18:00:08] [INFO   ] AV-Shield terminé
+[2026-03-05 18:00:08] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 18:01:42] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 18:01:42] [INFO   ] AV-Shield démarré
+[2026-03-05 18:01:42] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 18:01:42] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:01:42] [INFO   ] Base de données initialisée
+[2026-03-05 18:01:55] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 18:01:55] [INFO   ] Quarantaine initialisée
+[2026-03-05 18:01:55] [INFO   ] Scanner initialisé
+[2026-03-05 18:01:55] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 18:01:55] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_180155_test.py.quar [None]
+[2026-03-05 18:01:55] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 18:01:56] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 18:01:56] [INFO   ] Rapport HTML généré
+[2026-03-05 18:01:56] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:01:56] [INFO   ] Base de données initialisée
+[2026-03-05 18:01:56] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 18:01:56] [INFO   ] Base de données fermée
+[2026-03-05 18:01:56] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 18:01:56] [INFO   ] Base de données fermée
+[2026-03-05 18:01:56] [INFO   ] Scanner nettoyé
+[2026-03-05 18:01:56] [INFO   ] AV-Shield terminé
+[2026-03-05 18:01:56] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 18:02:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 18:02:54] [INFO   ] AV-Shield démarré
+[2026-03-05 18:02:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 18:02:54] [INFO   ] AV-Shield terminé
+[2026-03-05 18:02:54] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 18:03:34] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 18:03:34] [INFO   ] AV-Shield démarré
+[2026-03-05 18:03:34] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 18:03:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:03:34] [INFO   ] Base de données initialisée
+[2026-03-05 18:03:45] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 18:03:45] [INFO   ] Quarantaine initialisée
+[2026-03-05 18:03:45] [INFO   ] Scanner initialisé
+[2026-03-05 18:03:45] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 18:03:45] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_180345_test.py.quar [None]
+[2026-03-05 18:03:45] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 18:03:45] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 18:03:45] [INFO   ] Rapport JSON généré
+[2026-03-05 18:03:45] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:03:45] [INFO   ] Base de données initialisée
+[2026-03-05 18:03:45] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 18:03:45] [INFO   ] Base de données fermée
+[2026-03-05 18:03:45] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 18:03:45] [INFO   ] Base de données fermée
+[2026-03-05 18:03:45] [INFO   ] Scanner nettoyé
+[2026-03-05 18:03:45] [INFO   ] AV-Shield terminé
+[2026-03-05 18:03:45] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 18:04:21] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 18:04:21] [INFO   ] AV-Shield démarré
+[2026-03-05 18:04:21] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 18:04:21] [INFO   ] AV-Shield terminé
+[2026-03-05 18:04:21] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-05 18:05:15] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-05 18:05:15] [INFO   ] AV-Shield démarré
+[2026-03-05 18:05:15] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-05 18:05:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:05:15] [INFO   ] Base de données initialisée
+[2026-03-05 18:05:28] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-05 18:05:28] [INFO   ] Quarantaine initialisée
+[2026-03-05 18:05:28] [INFO   ] Scanner initialisé
+[2026-03-05 18:05:28] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-05 18:05:28] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260305_180528_test.py.quar [None]
+[2026-03-05 18:05:28] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-05 18:05:28] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-05 18:05:28] [INFO   ] Rapport HTML généré
+[2026-03-05 18:05:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-05 18:05:28] [INFO   ] Base de données initialisée
+[2026-03-05 18:05:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-05 18:05:28] [INFO   ] Base de données fermée
+[2026-03-05 18:05:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-05 18:05:28] [INFO   ] Base de données fermée
+[2026-03-05 18:05:28] [INFO   ] Scanner nettoyé
+[2026-03-05 18:05:28] [INFO   ] AV-Shield terminé
+[2026-03-05 18:05:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 14:19:34] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 14:19:34] [INFO   ] AV-Shield démarré
+[2026-03-06 14:19:34] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 14:19:34] [INFO   ] AV-Shield terminé
+[2026-03-06 14:19:34] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 14:20:27] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 14:20:27] [INFO   ] AV-Shield démarré
+[2026-03-06 14:20:27] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 14:20:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:20:27] [INFO   ] Base de données initialisée
+[2026-03-06 14:20:49] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 14:20:49] [INFO   ] Quarantaine initialisée
+[2026-03-06 14:20:49] [INFO   ] Scanner initialisé
+[2026-03-06 14:20:50] [INFO   ] Corrélation: test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 14:20:50] [AUDIT  ] QUARANTINE: /tmp/test.py → quarantine/QRN_20260306_142050_test.py.quar [None]
+[2026-03-06 14:20:50] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 14:20:50] [WARNING] FILE: test.py                                  | RESULT: SUSPICIOUS | SHA256: dd4247cbe48b03f3... | SIZE: 156 bytes
+[2026-03-06 14:20:50] [INFO   ] Rapport JSON généré
+[2026-03-06 14:20:50] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:20:50] [INFO   ] Base de données initialisée
+[2026-03-06 14:20:50] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 14:20:50] [INFO   ] Base de données fermée
+[2026-03-06 14:20:51] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 14:20:51] [INFO   ] Base de données fermée
+[2026-03-06 14:20:51] [INFO   ] Scanner nettoyé
+[2026-03-06 14:20:51] [INFO   ] AV-Shield terminé
+[2026-03-06 14:20:51] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 14:22:37] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 14:22:37] [INFO   ] AV-Shield démarré
+[2026-03-06 14:22:37] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 14:22:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:22:37] [INFO   ] Base de données initialisée
+[2026-03-06 14:22:48] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 14:22:48] [INFO   ] Quarantaine initialisée
+[2026-03-06 14:22:48] [INFO   ] Scanner initialisé
+[2026-03-06 14:22:49] [INFO   ] Corrélation: ransomware_test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 14:22:49] [AUDIT  ] QUARANTINE: /tmp/ransomware_test.py → quarantine/QRN_20260306_142249_ransomware_test.py.quar [None]
+[2026-03-06 14:22:49] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 14:22:49] [WARNING] FILE: ransomware_test.py                       | RESULT: SUSPICIOUS | SHA256: 8ae93e07eeb5395e... | SIZE: 816 bytes
+[2026-03-06 14:22:49] [INFO   ] Rapport HTML généré
+[2026-03-06 14:22:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:22:49] [INFO   ] Base de données initialisée
+[2026-03-06 14:22:49] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 14:22:49] [INFO   ] Base de données fermée
+[2026-03-06 14:22:49] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 14:22:49] [INFO   ] Base de données fermée
+[2026-03-06 14:22:49] [INFO   ] Scanner nettoyé
+[2026-03-06 14:22:49] [INFO   ] AV-Shield terminé
+[2026-03-06 14:22:49] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 14:30:38] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 14:30:38] [INFO   ] AV-Shield démarré
+[2026-03-06 14:30:38] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 14:30:38] [INFO   ] AV-Shield terminé
+[2026-03-06 14:30:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 14:32:19] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 14:32:19] [INFO   ] AV-Shield démarré
+[2026-03-06 14:32:19] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 14:32:19] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:32:19] [INFO   ] Base de données initialisée
+[2026-03-06 14:32:31] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 14:32:31] [INFO   ] Quarantaine initialisée
+[2026-03-06 14:32:31] [INFO   ] Scanner initialisé
+[2026-03-06 14:32:32] [INFO   ] Corrélation: ransomware_test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 14:32:32] [AUDIT  ] QUARANTINE: /tmp/ransomware_test.py → quarantine/QRN_20260306_143232_ransomware_test.py.quar [None]
+[2026-03-06 14:32:32] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 14:32:32] [WARNING] FILE: ransomware_test.py                       | RESULT: SUSPICIOUS | SHA256: c609df22a7d7e301... | SIZE: 339 bytes
+[2026-03-06 14:32:32] [INFO   ] Rapport JSON généré
+[2026-03-06 14:32:32] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 14:32:32] [INFO   ] Base de données initialisée
+[2026-03-06 14:32:32] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 14:32:32] [INFO   ] Base de données fermée
+[2026-03-06 14:32:32] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 14:32:32] [INFO   ] Base de données fermée
+[2026-03-06 14:32:32] [INFO   ] Scanner nettoyé
+[2026-03-06 14:32:32] [INFO   ] AV-Shield terminé
+[2026-03-06 14:32:32] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:00:00] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:00:00] [INFO   ] AV-Shield démarré
+[2026-03-06 15:00:00] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:00:00] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:00:00] [INFO   ] Base de données initialisée
+[2026-03-06 15:00:29] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:00:29] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:00:29] [INFO   ] Scanner initialisé
+[2026-03-06 15:00:29] [AUDIT  ] QUARANTINE: /tmp/malware2.com → quarantine/QRN_20260306_150029_malware2.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:00:29] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:00:29] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:00:29] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:00:29] [THREAT ] FILE: malware2.com                             | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:00:29] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/malware2.com
+[2026-03-06 15:00:29] [INFO   ] Rapport JSON généré
+[2026-03-06 15:00:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:00:29] [INFO   ] Base de données initialisée
+[2026-03-06 15:00:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:00:29] [INFO   ] Base de données fermée
+[2026-03-06 15:00:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:00:30] [INFO   ] Base de données fermée
+[2026-03-06 15:00:30] [INFO   ] Scanner nettoyé
+[2026-03-06 15:00:30] [INFO   ] AV-Shield terminé
+[2026-03-06 15:00:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:02:11] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:02:11] [INFO   ] AV-Shield démarré
+[2026-03-06 15:02:11] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:02:11] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:02:11] [INFO   ] Base de données initialisée
+[2026-03-06 15:02:36] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:02:36] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:02:36] [INFO   ] Scanner initialisé
+[2026-03-06 15:02:36] [INFO   ] Corrélation: backdoor.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:02:36] [AUDIT  ] QUARANTINE: /tmp/backdoor.py → quarantine/QRN_20260306_150236_backdoor.py.quar [None]
+[2026-03-06 15:02:36] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:02:36] [WARNING] FILE: backdoor.py                              | RESULT: SUSPICIOUS | SHA256: ff9a352050112714... | SIZE: 305 bytes
+[2026-03-06 15:02:36] [INFO   ] Rapport HTML généré
+[2026-03-06 15:02:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:02:36] [INFO   ] Base de données initialisée
+[2026-03-06 15:02:36] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:02:36] [INFO   ] Base de données fermée
+[2026-03-06 15:02:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:02:36] [INFO   ] Base de données fermée
+[2026-03-06 15:02:36] [INFO   ] Scanner nettoyé
+[2026-03-06 15:02:36] [INFO   ] AV-Shield terminé
+[2026-03-06 15:02:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:03:29] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:03:29] [INFO   ] AV-Shield démarré
+[2026-03-06 15:03:29] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:03:29] [INFO   ] AV-Shield terminé
+[2026-03-06 15:03:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:04:48] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:04:48] [INFO   ] AV-Shield démarré
+[2026-03-06 15:04:48] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:04:48] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:04:48] [INFO   ] Base de données initialisée
+[2026-03-06 15:05:26] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:05:26] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:05:26] [INFO   ] Scanner initialisé
+[2026-03-06 15:05:27] [INFO   ] Corrélation: test2backdoor.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:05:27] [AUDIT  ] QUARANTINE: /tmp/test2backdoor.py → quarantine/QRN_20260306_150527_test2backdoor.py.quar [None]
+[2026-03-06 15:05:27] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:05:27] [WARNING] FILE: test2backdoor.py                         | RESULT: SUSPICIOUS | SHA256: 4e4d32b20480ffe6... | SIZE: 310 bytes
+[2026-03-06 15:05:27] [INFO   ] Rapport HTML généré
+[2026-03-06 15:05:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:05:27] [INFO   ] Base de données initialisée
+[2026-03-06 15:05:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:05:27] [INFO   ] Base de données fermée
+[2026-03-06 15:05:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:05:28] [INFO   ] Base de données fermée
+[2026-03-06 15:05:28] [INFO   ] Scanner nettoyé
+[2026-03-06 15:05:28] [INFO   ] AV-Shield terminé
+[2026-03-06 15:05:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:07:20] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:07:20] [INFO   ] AV-Shield démarré
+[2026-03-06 15:07:20] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:07:20] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:07:20] [INFO   ] Base de données initialisée
+[2026-03-06 15:07:49] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:07:49] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:07:49] [INFO   ] Scanner initialisé
+[2026-03-06 15:07:49] [INFO   ] Corrélation: test3backdoor.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:07:49] [AUDIT  ] QUARANTINE: /tmp/test3backdoor.py → quarantine/QRN_20260306_150749_test3backdoor.py.quar [None]
+[2026-03-06 15:07:49] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:07:49] [WARNING] FILE: test3backdoor.py                         | RESULT: SUSPICIOUS | SHA256: 1f25a270ee86b477... | SIZE: 310 bytes
+[2026-03-06 15:07:49] [INFO   ] Rapport JSON généré
+[2026-03-06 15:07:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:07:49] [INFO   ] Base de données initialisée
+[2026-03-06 15:07:49] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:07:49] [INFO   ] Base de données fermée
+[2026-03-06 15:07:51] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:07:51] [INFO   ] Base de données fermée
+[2026-03-06 15:07:51] [INFO   ] Scanner nettoyé
+[2026-03-06 15:07:51] [INFO   ] AV-Shield terminé
+[2026-03-06 15:07:51] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:09:32] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:09:32] [INFO   ] AV-Shield démarré
+[2026-03-06 15:09:32] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:09:32] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:09:32] [INFO   ] Base de données initialisée
+[2026-03-06 15:09:46] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:09:46] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:09:46] [INFO   ] Scanner initialisé
+[2026-03-06 15:09:46] [INFO   ] Corrélation: backdoor2.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:09:46] [AUDIT  ] QUARANTINE: /tmp/backdoor2.py → quarantine/QRN_20260306_150946_backdoor2.py.quar [None]
+[2026-03-06 15:09:46] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:09:46] [WARNING] FILE: backdoor2.py                             | RESULT: SUSPICIOUS | SHA256: 390b0b6b72c85363... | SIZE: 306 bytes
+[2026-03-06 15:09:46] [INFO   ] Rapport HTML généré
+[2026-03-06 15:09:46] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:09:46] [INFO   ] Base de données initialisée
+[2026-03-06 15:09:46] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:09:46] [INFO   ] Base de données fermée
+[2026-03-06 15:09:48] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:09:48] [INFO   ] Base de données fermée
+[2026-03-06 15:09:48] [INFO   ] Scanner nettoyé
+[2026-03-06 15:09:48] [INFO   ] AV-Shield terminé
+[2026-03-06 15:09:48] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:14:28] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:14:28] [INFO   ] AV-Shield démarré
+[2026-03-06 15:14:28] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:14:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:14:28] [INFO   ] Base de données initialisée
+[2026-03-06 15:14:47] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:14:47] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:14:47] [INFO   ] Scanner initialisé
+[2026-03-06 15:14:47] [INFO   ] Corrélation: backdoor3.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:14:47] [AUDIT  ] QUARANTINE: /tmp/backdoor3.py → quarantine/QRN_20260306_151447_backdoor3.py.quar [None]
+[2026-03-06 15:14:47] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:14:47] [WARNING] FILE: backdoor3.py                             | RESULT: SUSPICIOUS | SHA256: 19eff3efadcf01fa... | SIZE: 227 bytes
+[2026-03-06 15:14:47] [INFO   ] Rapport HTML généré
+[2026-03-06 15:14:47] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:14:47] [INFO   ] Base de données initialisée
+[2026-03-06 15:14:47] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:14:47] [INFO   ] Base de données fermée
+[2026-03-06 15:14:48] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:14:48] [INFO   ] Base de données fermée
+[2026-03-06 15:14:48] [INFO   ] Scanner nettoyé
+[2026-03-06 15:14:48] [INFO   ] AV-Shield terminé
+[2026-03-06 15:14:48] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:16:59] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:16:59] [INFO   ] AV-Shield démarré
+[2026-03-06 15:16:59] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:16:59] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:16:59] [INFO   ] Base de données initialisée
+[2026-03-06 15:17:40] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:17:40] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:17:40] [INFO   ] Scanner initialisé
+[2026-03-06 15:17:40] [AUDIT  ] QUARANTINE: /tmp/malwaretest.com → quarantine/QRN_20260306_151740_malwaretest.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:17:41] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:17:41] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:17:41] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:17:41] [THREAT ] FILE: malwaretest.com                          | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:17:41] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/malwaretest.com
+[2026-03-06 15:17:41] [INFO   ] Rapport HTML généré
+[2026-03-06 15:17:41] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:17:41] [INFO   ] Base de données initialisée
+[2026-03-06 15:17:41] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:17:41] [INFO   ] Base de données fermée
+[2026-03-06 15:17:41] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:17:41] [INFO   ] Base de données fermée
+[2026-03-06 15:17:41] [INFO   ] Scanner nettoyé
+[2026-03-06 15:17:41] [INFO   ] AV-Shield terminé
+[2026-03-06 15:17:41] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:19:24] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:19:24] [INFO   ] AV-Shield démarré
+[2026-03-06 15:19:24] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:19:24] [INFO   ] AV-Shield terminé
+[2026-03-06 15:19:24] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:20:50] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:20:50] [INFO   ] AV-Shield démarré
+[2026-03-06 15:20:50] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:20:50] [INFO   ] AV-Shield terminé
+[2026-03-06 15:20:50] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:20:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:20:54] [INFO   ] AV-Shield démarré
+[2026-03-06 15:20:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:20:54] [INFO   ] AV-Shield terminé
+[2026-03-06 15:20:54] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:23:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:23:08] [INFO   ] AV-Shield démarré
+[2026-03-06 15:23:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:23:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:23:08] [INFO   ] Base de données initialisée
+[2026-03-06 15:23:19] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:23:19] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:23:19] [INFO   ] Scanner initialisé
+[2026-03-06 15:23:20] [AUDIT  ] QUARANTINE: /tmp/fin.com → quarantine/QRN_20260306_152319_fin.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:23:20] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:23:20] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:23:20] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:23:20] [THREAT ] FILE: fin.com                                  | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:23:20] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/fin.com
+[2026-03-06 15:23:20] [INFO   ] Rapport HTML généré
+[2026-03-06 15:23:20] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:23:20] [INFO   ] Base de données initialisée
+[2026-03-06 15:23:20] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:23:20] [INFO   ] Base de données fermée
+[2026-03-06 15:23:21] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:23:21] [INFO   ] Base de données fermée
+[2026-03-06 15:23:21] [INFO   ] Scanner nettoyé
+[2026-03-06 15:23:21] [INFO   ] AV-Shield terminé
+[2026-03-06 15:23:21] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:23:43] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:23:43] [INFO   ] AV-Shield démarré
+[2026-03-06 15:23:43] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:23:43] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:23:43] [INFO   ] Base de données initialisée
+[2026-03-06 15:24:06] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:24:06] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:24:06] [INFO   ] Scanner initialisé
+[2026-03-06 15:24:06] [AUDIT  ] QUARANTINE: /tmp/fin2.com → quarantine/QRN_20260306_152406_fin2.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:24:06] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:24:06] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:24:06] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:24:06] [THREAT ] FILE: fin2.com                                 | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:24:06] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/fin2.com
+[2026-03-06 15:24:06] [INFO   ] Rapport JSON généré
+[2026-03-06 15:24:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:24:06] [INFO   ] Base de données initialisée
+[2026-03-06 15:24:06] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:24:06] [INFO   ] Base de données fermée
+[2026-03-06 15:24:06] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:24:06] [INFO   ] Base de données fermée
+[2026-03-06 15:24:06] [INFO   ] Scanner nettoyé
+[2026-03-06 15:24:06] [INFO   ] AV-Shield terminé
+[2026-03-06 15:24:06] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:25:57] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:25:57] [INFO   ] AV-Shield démarré
+[2026-03-06 15:25:57] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:25:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:25:57] [INFO   ] Base de données initialisée
+[2026-03-06 15:26:26] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:26:26] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:26:26] [INFO   ] Scanner initialisé
+[2026-03-06 15:26:26] [AUDIT  ] QUARANTINE: /tmp/fin3.com → quarantine/QRN_20260306_152626_fin3.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:26:26] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:26:26] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:26:27] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:26:27] [THREAT ] FILE: fin3.com                                 | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:26:27] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/fin3.com
+[2026-03-06 15:26:27] [INFO   ] Rapport HTML généré
+[2026-03-06 15:26:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:26:27] [INFO   ] Base de données initialisée
+[2026-03-06 15:26:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:26:27] [INFO   ] Base de données fermée
+[2026-03-06 15:26:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:26:28] [INFO   ] Base de données fermée
+[2026-03-06 15:26:28] [INFO   ] Scanner nettoyé
+[2026-03-06 15:26:28] [INFO   ] AV-Shield terminé
+[2026-03-06 15:26:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:31:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:31:08] [INFO   ] AV-Shield démarré
+[2026-03-06 15:31:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:31:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:31:08] [INFO   ] Base de données initialisée
+[2026-03-06 15:31:32] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:31:32] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:31:32] [INFO   ] Scanner initialisé
+[2026-03-06 15:31:32] [AUDIT  ] QUARANTINE: /tmp/finaltest.com → quarantine/QRN_20260306_153132_finaltest.com.quar [Eicar-Test-Signature]
+[2026-03-06 15:31:32] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:31:32] [THREAT ] Menace sauvegardée en base de données
+[2026-03-06 15:31:32] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:31:32] [THREAT ] FILE: finaltest.com                            | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-06 15:31:32] [THREAT ] THREAT DETECTED: Eicar-Test-Signature | FILE: /tmp/finaltest.com
+[2026-03-06 15:31:32] [INFO   ] Rapport JSON généré
+[2026-03-06 15:31:32] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:31:32] [INFO   ] Base de données initialisée
+[2026-03-06 15:31:32] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:31:32] [INFO   ] Base de données fermée
+[2026-03-06 15:31:33] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:31:33] [INFO   ] Base de données fermée
+[2026-03-06 15:31:33] [INFO   ] Scanner nettoyé
+[2026-03-06 15:31:33] [INFO   ] AV-Shield terminé
+[2026-03-06 15:31:33] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-06 15:32:55] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-06 15:32:55] [INFO   ] AV-Shield démarré
+[2026-03-06 15:32:55] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-06 15:32:55] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:32:55] [INFO   ] Base de données initialisée
+[2026-03-06 15:33:27] [INFO   ] ClamAV initialisé: 3627563 signatures chargées
+[2026-03-06 15:33:27] [INFO   ] Quarantaine initialisée
+[2026-03-06 15:33:27] [INFO   ] Scanner initialisé
+[2026-03-06 15:33:27] [INFO   ] Corrélation: heuristic_test.py → SUSPICIOUS (confiance: 65%)
+[2026-03-06 15:33:27] [AUDIT  ] QUARANTINE: /tmp/heuristic_test.py → quarantine/QRN_20260306_153327_heuristic_test.py.quar [None]
+[2026-03-06 15:33:27] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-06 15:33:27] [WARNING] FILE: heuristic_test.py                        | RESULT: SUSPICIOUS | SHA256: cee0e709f50c5a1d... | SIZE: 328 bytes
+[2026-03-06 15:33:27] [INFO   ] Rapport JSON généré
+[2026-03-06 15:33:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-06 15:33:27] [INFO   ] Base de données initialisée
+[2026-03-06 15:33:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-06 15:33:27] [INFO   ] Base de données fermée
+[2026-03-06 15:33:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-06 15:33:28] [INFO   ] Base de données fermée
+[2026-03-06 15:33:28] [INFO   ] Scanner nettoyé
+[2026-03-06 15:33:28] [INFO   ] AV-Shield terminé
+[2026-03-06 15:33:28] [INFO   ] === AV-Shield Logger fermé ===
