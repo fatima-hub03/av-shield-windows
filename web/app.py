@@ -94,10 +94,8 @@ def api_scan():
     # Toujours générer le rapport JSON pour afficher les détails
     cmd.append('--report')
 
-    # Ne pas passer --html au binaire pour éviter d'écraser --report JSON
-    # Le rapport HTML sera cherché séparément
-    # if want_html:
-    #     cmd.append('--html')
+    if want_html:
+        cmd.append('--html')
 
     try:
         result = subprocess.run(

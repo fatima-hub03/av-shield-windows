@@ -93,7 +93,7 @@ static void print_help(void) {
    COMMANDE SCAN
    ============================================ */
 static int cmd_scan(const char *path, int auto_quarantine,
-                     int gen_report, ReportFormat fmt) {
+                     int gen_report, int gen_html, int gen_txt, ReportFormat fmt) {
     struct stat st;
 
     /* Vérifier que le chemin existe */
@@ -177,7 +177,13 @@ static int cmd_scan(const char *path, int auto_quarantine,
 
     /* Générer le rapport si demandé */
     if (gen_report) {
-        report_generate(&report, fmt);
+        report_generate(&report, REPORT_JSON);
+    }
+    if (gen_html) {
+        report_generate(&report, REPORT_HTML);
+    }
+    if (gen_txt) {
+        report_generate(&report, REPORT_TXT);
     }
 
     /* Sauvegarder le scan en base */
@@ -298,25 +304,16 @@ int main(int argc, char *argv[]) {
         /* Options */
         int auto_q    = 0;
         int gen_rep   = 0;
+        int gen_html  = 0;
+        int gen_txt   = 0;
         ReportFormat fmt = REPORT_JSON;
-
         for (int i = 3; i < argc; i++) {
-            if (strcmp(argv[i], "--auto")   == 0) auto_q  = 1;
-            if (strcmp(argv[i], "--report") == 0) {
-                gen_rep = 1;
-                fmt = REPORT_JSON;
-            }
-            if (strcmp(argv[i], "--html")   == 0) {
-                gen_rep = 1;
-                fmt = REPORT_HTML;
-            }
-            if (strcmp(argv[i], "--txt")    == 0) {
-                gen_rep = 1;
-                fmt = REPORT_TXT;
-            }
+            if (strcmp(argv[i], "--auto")   == 0) auto_q   = 1;
+            if (strcmp(argv[i], "--report") == 0) gen_rep  = 1;
+            if (strcmp(argv[i], "--html")   == 0) gen_html = 1;
+            if (strcmp(argv[i], "--txt")    == 0) gen_txt  = 1;
         }
-
-        cmd_scan(argv[2], auto_q, gen_rep, fmt);
+        cmd_scan(argv[2], auto_q, gen_rep, gen_html, gen_txt, fmt);
     }
 
     /* ---- COMMANDE: quarantine ---- */
