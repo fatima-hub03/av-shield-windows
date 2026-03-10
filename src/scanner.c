@@ -181,7 +181,7 @@ scan_done:
    - SUSPICIOUS : seulement si option utilisateur cochée
    ============================== */
 
-if (report->final_result == RESULT_MALWARE) {
+if (report->final_result == RESULT_MALWARE && !report->quarantined) {
 
     quarantine_add(report);
     database_save_quarantine(&g_db, report);
