@@ -61,6 +61,9 @@ int scanner_is_valid_file(const char *filepath) {
     /* Vérifier que le fichier existe */
     if (stat(filepath, &st) != 0) return 0;
 
+    /* Ignorer les fichiers quarantaine */
+    if (strstr(filepath, "/quarantine/") != NULL) return 0;
+    if (strstr(filepath, ".quar") != NULL) return 0;
     /* Ignorer les dossiers */
     if (S_ISDIR(st.st_mode)) return 0;
 
