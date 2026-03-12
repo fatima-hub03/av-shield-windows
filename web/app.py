@@ -98,6 +98,8 @@ def api_scan():
         cmd.append('--html')
 
     try:
+        import time as _time
+        scan_start_time = _time.time()
         result = subprocess.run(
             cmd,
             capture_output=True,
@@ -141,17 +143,20 @@ def api_scan():
         time.sleep(1.5)
         json_path = None
         json_file = None
-        _output_clean = _re.sub(r'\x1b\[[0-9;]*m', '', result.stdout + result.stderr)
-        # Chercher rapport JSON dans stdout
-        _match = _re.search(r'(RPT_\d+_\d+)\.json', _output_clean)
-        if not _match:
-            # Chercher depuis rapport HTML (meme nom base)
-            _match_html = _re.search(r'(RPT_\d+_\d+)\.html', _output_clean)
-            if _match_html:
-                _match = _match_html
-        if _match:
-            json_file = _match.group(1) + '.json'
-            json_path = os.path.join(REPORTS_DIR, json_file)
+        # Prendre le JSON le plus récent créé après le début du scan
+        scan_start = scan_start_time - 2
+        json_candidates = [
+            os.path.join(REPORTS_DIR, f)
+            for f in os.listdir(REPORTS_DIR)
+            if f.startswith("RPT_") and f.endswith(".json")
+            and os.path.getmtime(os.path.join(REPORTS_DIR, f)) > scan_start
+        ]
+        if json_candidates:
+            json_path = max(json_candidates, key=os.path.getmtime)
+            json_file = os.path.basename(json_path)
+        elif report_json_path:
+            json_path = report_json_path
+            json_file = os.path.basename(report_json_path)
 
 
 
@@ -183,6 +188,9 @@ def api_scan():
 
         # Lire le contenu JSON si disponible
         report_data = None
+        if not json_path and report_json_path:
+            json_path = report_json_path
+            json_file = os.path.basename(report_json_path)
         if json_path and os.path.exists(json_path):
             try:
                 with open(json_path, "r") as f:
@@ -340,7 +348,7 @@ def open_report(filename):
 
 @app.route("/reports/download/<path:filename>")
 def download_report(filename):
-    return send_from_directory(REPORTS_DIR, filename, as_attachment=True)
+    return send_from_directory(REPORTS_DIR, filename, as_attachment=False)
 
 # ============================================
 #   DÉMARRAGE

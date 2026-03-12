@@ -173,6 +173,16 @@ function startScan() {
 }
 
 function showResults(data) {
+  if (!data.report && data.report_json_file) {
+    fetch('/reports/download/' + data.report_json_file)
+      .then(r => r.json())
+      .then(reportData => { data.report = reportData; renderResults(data); })
+      .catch(() => renderResults(data));
+    return;
+  }
+  renderResults(data);
+}
+function renderResults(data) {
   const report = data.report;
  
   let total = 0, clean = 0, suspicious = 0, malware = 0;
@@ -232,7 +242,13 @@ function showResults(data) {
   if (files.length === 0) {
     tbody.innerHTML = `<tr><td colspan="5" class="empty">Aucun détail disponible</td></tr>`;
   } else {
-    files.forEach(f => {
+    const displayFiles = files.slice(0, 500);
+  if (files.length > 500) {
+    const info = document.createElement("tr");
+    info.innerHTML = `<td colspan="5" style="text-align:center;color:var(--yellow);padding:10px;">Affichage des 500 premiers fichiers sur ${files.length} — consultez le rapport HTML pour tous les détails</td>`;
+    tbody.appendChild(info);
+  }
+  displayFiles.forEach(f => {
       const resultClass = f.result === 'MALWARE'    ? 'danger'  :
                           f.result === 'SUSPICIOUS'  ? 'warning' : 'clean';
       const tr = document.createElement("tr");
