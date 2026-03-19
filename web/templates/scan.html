@@ -144,6 +144,139 @@ function closeAI() {
   }, 300);
 }
 
+function downloadAIPDF() {
+  const filename    = document.getElementById('ai-filename').textContent;
+  const sha256      = document.getElementById('ai-sha256').textContent;
+  const filesize    = document.getElementById('ai-filesize').textContent;
+  const probability = document.getElementById('ai-probability').textContent;
+  const duration    = document.getElementById('ai-duration').textContent;
+  const timeline    = document.getElementById('ai-timeline').innerHTML;
+  const layers      = document.getElementById('ai-layers').innerHTML;
+  const classif     = document.getElementById('ai-classification').innerHTML;
+  const type        = document.getElementById('ai-type-text').innerHTML;
+  const danger      = document.getElementById('ai-danger-text').innerHTML;
+  const reco        = document.getElementById('ai-reco-text').innerHTML;
+  const risk        = document.getElementById('ai-risk-badge').textContent;
+  const tiScore     = document.getElementById('ti-score')?.textContent || '';
+  const tiRep       = document.getElementById('ti-reputation')?.textContent || '';
+  const tiFamily    = document.getElementById('ti-family')?.textContent || '';
+  const tiMal       = document.getElementById('ti-malicious')?.textContent || '';
+  const tiSus       = document.getElementById('ti-suspicious')?.textContent || '';
+  const tiUnd       = document.getElementById('ti-undetected')?.textContent || '';
+  const tiDate      = document.getElementById('ti-firstseen')?.textContent || '';
+  const date        = new Date().toLocaleString('fr-FR');
+
+  const riskColor = risk === 'CRITIQUE' ? '#ff0000' : risk === 'ÉLEVÉ' ? '#ff4757' : risk === 'MOYEN' ? '#ffa502' : '#2ed573';
+
+  const html = `<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Rapport IA PDF — ${filename}</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: white; color: #1a1a1a; padding: 30px; max-width: 800px; margin: 0 auto; font-size: 13px; }
+    h1 { color: #2c3e50; border-bottom: 3px solid #667eea; padding-bottom: 10px; font-size: 20px; }
+    h2 { color: #34495e; font-size: 14px; margin-bottom: 5px; }
+    .header { background: #f8f9fa; border-radius: 8px; padding: 15px; margin-bottom: 20px; }
+    .section { border-left: 4px solid #667eea; padding: 10px 15px; margin-bottom: 15px; background: #f8f9fa; border-radius: 0 8px 8px 0; }
+    .section.danger { border-color: #ff4757; }
+    .section.reco { border-color: #2ed573; }
+    .section.risk { border-color: ${riskColor}; }
+    .section.ti { border-color: #00cec9; }
+    .badge { display: inline-block; padding: 5px 15px; border-radius: 20px; color: white; background: ${riskColor}; font-weight: bold; font-size: 14px; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 20px; }
+    .stat { text-align: center; background: #f8f9fa; border-radius: 8px; padding: 10px; }
+    .stat-value { font-size: 22px; font-weight: bold; color: #667eea; }
+    .stat-label { font-size: 11px; color: #888; }
+    .footer { text-align: center; color: #888; margin-top: 30px; font-size: 11px; border-top: 1px solid #eee; padding-top: 15px; }
+    code { background: #f1f1f1; padding: 2px 6px; border-radius: 4px; font-size: 11px; word-break: break-all; }
+  </style>
+</head>
+<body>
+  <h1>🛡️ Rapport Analyse IA — AV-Shield</h1>
+  <div class="header">
+    <p><b>Fichier :</b> ${filename} &nbsp;|&nbsp; <b>Date :</b> ${date}</p>
+    <p><b>SHA256 :</b> <code>${sha256}</code></p>
+  </div>
+
+  <div class="grid">
+    <div class="stat"><div class="stat-value">${probability}</div><div class="stat-label">Probabilité menace</div></div>
+    <div class="stat"><div class="stat-value">${duration}</div><div class="stat-label">Durée analyse IA</div></div>
+    <div class="stat"><div class="stat-value">${filesize}</div><div class="stat-label">Taille fichier</div></div>
+  </div>
+
+  <div class="section">
+    <h2>⏱️ Pipeline d'Analyse</h2>
+    <div style="line-height:1.8;">${timeline.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section">
+    <h2>🔍 Couches de Détection</h2>
+    <div style="line-height:1.8;">${layers.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section">
+    <h2>🏷️ Classification</h2>
+    <div>${classif.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section">
+    <h2>🎯 Type de Menace</h2>
+    <div>${type.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section danger">
+    <h2>⚠️ Pourquoi c'est Dangereux</h2>
+    <div>${danger.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section reco">
+    <h2>🛡️ Recommandations</h2>
+    <div>${reco.replace(/<[^>]+>/g, '')}</div>
+  </div>
+
+  <div class="section risk">
+    <h2>🔴 Niveau de Risque</h2>
+    <span class="badge">${risk}</span>
+  </div>
+
+  <div class="section ti">
+    <h2>🌐 Threat Intelligence — VirusTotal</h2>
+    ${tiScore ? `<p><b>Score :</b> ${tiScore} — ${tiRep}</p><p><b>Famille :</b> ${tiFamily}</p><p>🔴 Malveillant : ${tiMal} | 🟡 Suspect : ${tiSus} | ✅ Non détecté : ${tiUnd}</p><p>📅 Première détection : ${tiDate}</p>` : '<p>Hash inconnu de VirusTotal</p>'}
+  </div>
+
+  <div class="footer">Généré par AV-Shield — Système de détection multi-couches avec IA</div>
+</body>
+</html>`;
+
+  // Envoyer à Flask pour conversion PDF
+  const btn = event.target;
+  btn.textContent = '⏳ Génération...';
+  btn.disabled = true;
+
+  fetch('/api/generate-pdf', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({html: html})
+  })
+  .then(r => r.blob())
+  .then(blob => {
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'rapport_ia_' + filename + '_' + new Date().toISOString().slice(0,10) + '.pdf';
+    a.click();
+    URL.revokeObjectURL(url);
+    btn.textContent = '📄 Télécharger PDF';
+    btn.disabled = false;
+  })
+  .catch(err => {
+    alert('Erreur génération PDF: ' + err);
+    btn.textContent = '📄 Télécharger PDF';
+    btn.disabled = false;
+  });
+}
+
 function downloadAIReport() {
   const filename = document.getElementById('ai-filename').textContent;
   const sha256   = document.getElementById('ai-sha256').textContent;
@@ -787,6 +920,9 @@ function analyzeWithAI(btn) {
         </button>
         <button onclick="downloadAIReport()" style="flex:1;background:linear-gradient(135deg,#11998e,#38ef7d);color:white;border:none;padding:12px;border-radius:8px;cursor:pointer;font-size:0.85em;">
           📥 Télécharger HTML
+        </button>
+        <button onclick="downloadAIPDF()" style="flex:1;background:linear-gradient(135deg,#e17055,#d63031);color:white;border:none;padding:12px;border-radius:8px;cursor:pointer;font-size:0.85em;">
+          📄 Télécharger PDF
         </button>
       </div>
       </button>

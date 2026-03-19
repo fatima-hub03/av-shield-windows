@@ -203,6 +203,18 @@ def api_scan():
             except Exception:
                 report_data = None
 
+        # Envoyer alerte email si menace détectée
+        try:
+            import sys as _sys
+            _sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+            from email_notifier import send_threat_alert
+            if report_data and report_data.get('files'):
+                for fi in report_data['files']:
+                    if fi.get('result') in ['MALWARE', 'SUSPICIOUS']:
+                        send_threat_alert(fi.get('filename',''), fi.get('filepath',''), fi.get('result',''), fi.get('threat',''), fi.get('heuristic_score',0), fi.get('entropy',0), fi.get('sha256',''))
+        except Exception as _e:
+            print(f"[EMAIL] {_e}")
+
         return jsonify({
             "success": True,
             "output": result.stdout,
