@@ -14,6 +14,8 @@ if platform.system() == "Windows":
     WATCH_DIRS   = [
         os.path.join(os.path.expanduser("~"), "Downloads"),
         os.path.join(os.path.expanduser("~"), "Desktop"),
+        os.path.join(os.path.expanduser("~"), "Documents"),
+        os.path.join(os.path.expanduser("~"), "AppData", "Local", "Temp"),
         "C:\\Temp"
     ]
     BASE_PATH    = os.path.dirname(os.path.abspath(__file__))
@@ -42,7 +44,7 @@ def save_event(filepath, result, threat):
         "threat"   : threat or "None",
         "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     })
-    events = events[:50]
+    events = events[:100]
     with open(EVENTS_FILE, "w") as f:
         json.dump(events, f)
 
@@ -55,19 +57,34 @@ def scan_file(filepath):
         print(f"[RT] Scan: {filepath}")
         import requests as req
         response = req.post("http://localhost:5000/api/scan",
-            json={"path": filepath, "auto": False, "report": False, "realtime": True},
+            json={"path": filepath, "auto": False, "report": True, "realtime": True},
             timeout=60)
         file_result = "CLEAN"
         threat = "None"
         if response.status_code == 200:
             try:
                 data  = response.json()
-                files = (data.get("report") or {}).get("files", [])
+                data  = response.json()
+                report = data.get("report") or {}
+                files = report.get("files", [])
+                # Methode 1: chercher par nom de fichier
+                filename = os.path.basename(filepath).lower()
                 for f_info in files:
-                    if f_info.get("filepath") == filepath:
+                    fp = f_info.get("filepath", "") or f_info.get("filename", "")
+                    if os.path.basename(fp).lower() == filename:
                         file_result = f_info.get("result", "CLEAN")
                         threat      = f_info.get("threat", "None")
                         break
+                # Methode 2: utiliser les stats si fichier pas trouve
+                if file_result == "CLEAN":
+                    stats = report.get("statistics", {})
+                    if stats.get("malware_files", 0) > 0:
+                        file_result = "MALWARE"
+                        # Recuperer le nom de la menace
+                        if files:
+                            threat = files[0].get("threat", "None")
+                    elif stats.get("suspicious_files", 0) > 0:
+                        file_result = "SUSPICIOUS"
             except Exception as e:
                 print(f"[RT] Erreur parsing: {e}")
         print(f"[RT] {filepath} -> {file_result}")

@@ -1,3 +1,6 @@
+#ifdef _WIN32
+#include <direct.h>
+#endif
 #include "../include/quarantine.h"
 #include "../include/logger.h"
 #include <time.h>
@@ -9,7 +12,7 @@ int quarantine_init(void) {
     /* Créer le dossier quarantaine si inexistant */
     struct stat st = {0};
     if (stat(QUARANTINE_DIR, &st) == -1) {
-        if (mkdir(QUARANTINE_DIR, 0700) != 0) {
+        if (_mkdir(QUARANTINE_DIR) != 0) {
             fprintf(stderr, COLOR_RED "[ERROR] " COLOR_RESET
                     "Impossible de créer le dossier quarantaine\n");
             return -1;

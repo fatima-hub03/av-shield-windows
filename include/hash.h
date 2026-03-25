@@ -2,7 +2,11 @@
 #define HASH_H
 
 #include "common.h"
+#ifdef _WIN32
+#include "C:/Program Files/OpenSSL-Win64/include/openssl/sha.h"
+#else
 #include <openssl/sha.h>
+#endif
 #include <openssl/evp.h>
 
 /* Fonctions */

@@ -38,7 +38,9 @@ def index():
             "total_scans"     : db.execute("SELECT COUNT(*) FROM scans").fetchone()[0],
             "total_threats"   : db.execute("SELECT COUNT(*) FROM threats").fetchone()[0],
             "total_quarantine": db.execute("SELECT COUNT(*) FROM quarantine WHERE restored=0").fetchone()[0],
-            "total_clean"     : db.execute("SELECT SUM(clean_files) FROM scans").fetchone()[0] or 0
+            "total_clean"     : db.execute("SELECT SUM(clean_files) FROM scans").fetchone()[0] or 0,
+            "total_suspicious": db.execute("SELECT SUM(suspicious_files) FROM scans").fetchone()[0] or 0,
+            "total_malware"   : db.execute("SELECT SUM(malware_files) FROM scans").fetchone()[0] or 0
         }
         scans   = db.execute("SELECT * FROM scans ORDER BY id DESC LIMIT 5").fetchall()
         threats = db.execute("SELECT * FROM threats ORDER BY id DESC LIMIT 5").fetchall()
@@ -79,7 +81,9 @@ def api_scan():
     try:
         import time as _time
         scan_start_time = _time.time()
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=300, cwd=os.path.dirname(os.path.abspath(AVSHIELD_BIN)))
+        proc = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, timeout=300, cwd=os.path.dirname(os.path.abspath(AVSHIELD_BIN)))
+        result_stdout = proc.stdout.decode('utf-8', errors='ignore') if proc.stdout else ''
+        result_stderr = proc.stderr.decode('utf-8', errors='ignore') if proc.stderr else ''
         _time.sleep(1.5)
         json_path = None
         json_file = None
@@ -104,10 +108,15 @@ def api_scan():
         report_data = None
         if json_path and os.path.exists(json_path):
             try:
-                with open(json_path, "r") as f:
-                    report_data = json.load(f)
-            except:
-                pass
+                with open(json_path, "r", encoding="utf-8", errors="ignore") as f:
+                    raw = f.read()
+                # Corriger les backslashes Windows dans le JSON
+                import re as _re
+                raw = _re.sub(r'(?<!\\)\\(?!["\\/bfnrt]|u[0-9a-fA-F]{4})', r'\\\\', raw)
+                report_data = json.loads(raw)
+            except Exception as _je:
+                print(f"[JSON ERROR] {_je}")
+                report_data = None
         try:
             sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
             from email_notifier import send_threat_alert
@@ -117,7 +126,7 @@ def api_scan():
                         send_threat_alert(fi.get("filename",""), fi.get("filepath",""), fi.get("result",""), fi.get("threat",""), fi.get("heuristic_score",0), fi.get("entropy",0), fi.get("sha256",""))
         except Exception as _e:
             print(f"[EMAIL] {_e}")
-        return jsonify({"success": True, "output": result.stdout, "errors": result.stderr, "quarantined": quarantined, "quarantine_file": quarantine_file, "report_json_file": json_file, "report_html_file": html_file, "report_json_url": f"/reports/download/{json_file}" if json_file else None, "report_html_url": f"/reports/{html_file}" if html_file else None, "report": report_data})
+        return jsonify({"success": True, "output": result_stdout, "errors": result_stderr, "quarantined": quarantined, "quarantine_file": quarantine_file, "report_json_file": json_file, "report_html_file": html_file, "report_json_url": f"/reports/download/{json_file}" if json_file else None, "report_html_url": f"/reports/{html_file}" if html_file else None, "report": report_data})
     except subprocess.TimeoutExpired:
         return jsonify({"error": "Scan timeout (5 min)"}), 408
     except Exception as e:

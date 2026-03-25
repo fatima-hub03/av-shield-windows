@@ -8,6 +8,13 @@
 #include "../include/logger.h"
 #include <time.h>
 
+#ifdef _WIN32
+#include <windows.h>
+#define S_ISLNK(m) 0
+#define lstat stat
+#endif
+
+
 /* Variables globales du scanner */
 static ScannerConfig  g_config;
 static ScannerStats   g_stats;

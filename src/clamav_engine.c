@@ -26,7 +26,12 @@ int clamav_init(ClamavEngine *engine) {
     /* Charger les bases de signatures */
     printf(COLOR_CYAN "[INFO]   " COLOR_RESET
            "Chargement des signatures ClamAV...\n");
-    rc = cl_load(cl_retdbdir(), engine->engine,
+    #ifdef _WIN32
+    const char *db_path = "C:\\Program Files\\ClamAV\\database";
+#else
+    const char *db_path = cl_retdbdir();
+#endif
+    rc = cl_load(db_path, engine->engine,
                  &engine->signatures, CL_DB_STDOPT);
     if (rc != CL_SUCCESS) {
         fprintf(stderr, COLOR_RED "[ERROR] " COLOR_RESET

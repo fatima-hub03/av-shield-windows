@@ -98,12 +98,12 @@
       <div style="display:flex;align-items:center;gap:10px;">
         <div style="width:14px;height:14px;border-radius:50%;background:#ffa502;"></div>
         <span style="color:#e0e0e0;">Suspects</span>
-        <span style="color:#ffa502;font-weight:bold;margin-left:auto;">{{ stats.total_threats }}</span>
+        <span style="color:#ffa502;font-weight:bold;margin-left:auto;">{{ stats.total_suspicious }}</span>
       </div>
       <div style="display:flex;align-items:center;gap:10px;">
         <div style="width:14px;height:14px;border-radius:50%;background:#ff4757;"></div>
         <span style="color:#e0e0e0;">Malwares</span>
-        <span style="color:#ff4757;font-weight:bold;margin-left:auto;">{{ stats.total_quarantine }}</span>
+        <span style="color:#ff4757;font-weight:bold;margin-left:auto;">{{ stats.total_malware }}</span>
       </div>
     </div>
   </div>
@@ -301,7 +301,7 @@ new Chart(ctx, {
   data: {
     labels: ['Propres', 'Suspects', 'Malwares'],
     datasets: [{
-      data: [{{ stats.total_clean }}, {{ stats.total_threats }}, {{ stats.total_quarantine }}],
+      data: [{{ stats.total_clean }}, {{ stats.total_suspicious }}, {{ stats.total_malware }}],
       backgroundColor: ['#2ed573', '#ffa502', '#ff4757'],
       borderColor: '#0d0d1a',
       borderWidth: 3,

@@ -6118,3 +6118,2600 @@
 [2026-03-25 14:05:30] [INFO   ] Scanner nettoyé
 [2026-03-25 14:05:30] [INFO   ] AV-Shield terminé
 [2026-03-25 14:05:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:07:10] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:07:10] [INFO   ] AV-Shield démarré
+[2026-03-25 16:07:10] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:07:10] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:13:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:13:08] [INFO   ] AV-Shield démarré
+[2026-03-25 16:13:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:13:08] [INFO   ] AV-Shield terminé
+[2026-03-25 16:13:08] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:13:42] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:13:42] [INFO   ] AV-Shield démarré
+[2026-03-25 16:13:42] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:13:42] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:13:42] [INFO   ] Base de données initialisée
+[2026-03-25 16:13:42] [INFO   ] AV-Shield terminé
+[2026-03-25 16:13:42] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:14:33] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:14:33] [INFO   ] AV-Shield démarré
+[2026-03-25 16:14:33] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:14:33] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:14:33] [INFO   ] Base de données initialisée
+[2026-03-25 16:14:37] [INFO   ] AV-Shield terminé
+[2026-03-25 16:14:37] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:15:10] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:15:10] [INFO   ] AV-Shield démarré
+[2026-03-25 16:15:10] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:15:10] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:15:10] [INFO   ] Base de données initialisée
+[2026-03-25 16:15:14] [INFO   ] AV-Shield terminé
+[2026-03-25 16:15:14] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:15:42] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:15:42] [INFO   ] AV-Shield démarré
+[2026-03-25 16:15:42] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:15:42] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:15:42] [INFO   ] Base de données initialisée
+[2026-03-25 16:15:46] [INFO   ] AV-Shield terminé
+[2026-03-25 16:15:46] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:16:34] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:16:34] [INFO   ] AV-Shield démarré
+[2026-03-25 16:16:34] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:16:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:16:34] [INFO   ] Base de données initialisée
+[2026-03-25 16:16:37] [INFO   ] AV-Shield terminé
+[2026-03-25 16:16:37] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:20:20] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:20:20] [INFO   ] AV-Shield démarré
+[2026-03-25 16:20:20] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:20:20] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:20:20] [INFO   ] Base de données initialisée
+[2026-03-25 16:20:31] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:20:31] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:20:31] [INFO   ] Scanner initialisé
+[2026-03-25 16:20:31] [INFO   ] Corrélation: C:\av-shield\test_malware.txt → CLEAN (confiance: 90%)
+[2026-03-25 16:20:31] [INFO   ] FILE: C:\av-shield\test_malware.txt            | RESULT: CLEAN      | SHA256: b9d15abf2449bb55... | SIZE: 71 bytes
+[2026-03-25 16:20:31] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:20:31] [INFO   ] Base de données initialisée
+[2026-03-25 16:20:31] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:20:31] [INFO   ] Base de données fermée
+[2026-03-25 16:20:31] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:20:31] [INFO   ] Base de données fermée
+[2026-03-25 16:20:31] [INFO   ] Scanner nettoyé
+[2026-03-25 16:20:31] [INFO   ] AV-Shield terminé
+[2026-03-25 16:20:31] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:21:14] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:21:14] [INFO   ] AV-Shield démarré
+[2026-03-25 16:21:14] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:21:14] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:21:14] [INFO   ] Base de données initialisée
+[2026-03-25 16:21:24] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:21:24] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:21:24] [INFO   ] Scanner initialisé
+[2026-03-25 16:21:24] [INFO   ] Corrélation: C:\av-shield\eicar.txt → CLEAN (confiance: 90%)
+[2026-03-25 16:21:24] [INFO   ] FILE: C:\av-shield\eicar.txt                   | RESULT: CLEAN      | SHA256: ERROR... | SIZE: 68 bytes
+[2026-03-25 16:21:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:21:24] [INFO   ] Base de données initialisée
+[2026-03-25 16:21:24] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:21:24] [INFO   ] Base de données fermée
+[2026-03-25 16:21:25] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:21:25] [INFO   ] Base de données fermée
+[2026-03-25 16:21:25] [INFO   ] Scanner nettoyé
+[2026-03-25 16:21:25] [INFO   ] AV-Shield terminé
+[2026-03-25 16:21:25] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:22:23] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:22:23] [INFO   ] AV-Shield démarré
+[2026-03-25 16:22:23] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:22:23] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:22:23] [INFO   ] Base de données initialisée
+[2026-03-25 16:22:33] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:22:33] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:22:33] [INFO   ] Scanner initialisé
+[2026-03-25 16:22:33] [INFO   ] Corrélation: C:\av-shield\eicar.txt → CLEAN (confiance: 90%)
+[2026-03-25 16:22:33] [INFO   ] FILE: C:\av-shield\eicar.txt                   | RESULT: CLEAN      | SHA256: ERROR... | SIZE: 68 bytes
+[2026-03-25 16:22:33] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:22:33] [INFO   ] Base de données initialisée
+[2026-03-25 16:22:33] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:22:33] [INFO   ] Base de données fermée
+[2026-03-25 16:22:34] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:22:34] [INFO   ] Base de données fermée
+[2026-03-25 16:22:34] [INFO   ] Scanner nettoyé
+[2026-03-25 16:22:34] [INFO   ] AV-Shield terminé
+[2026-03-25 16:22:34] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:23:22] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:23:22] [INFO   ] AV-Shield démarré
+[2026-03-25 16:23:22] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:23:22] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:23:22] [INFO   ] Base de données initialisée
+[2026-03-25 16:23:32] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:23:32] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:23:32] [INFO   ] Scanner initialisé
+[2026-03-25 16:23:32] [INFO   ] Corrélation: C:\av-shield\test_clean.txt → CLEAN (confiance: 90%)
+[2026-03-25 16:23:32] [INFO   ] FILE: C:\av-shield\test_clean.txt              | RESULT: CLEAN      | SHA256: c7af0b27d9651def... | SIZE: 10 bytes
+[2026-03-25 16:23:32] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:23:32] [INFO   ] Base de données initialisée
+[2026-03-25 16:23:32] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:23:32] [INFO   ] Base de données fermée
+[2026-03-25 16:23:33] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:23:33] [INFO   ] Base de données fermée
+[2026-03-25 16:23:33] [INFO   ] Scanner nettoyé
+[2026-03-25 16:23:33] [INFO   ] AV-Shield terminé
+[2026-03-25 16:23:33] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:25:15] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:25:15] [INFO   ] AV-Shield démarré
+[2026-03-25 16:25:15] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:25:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:25:15] [INFO   ] Base de données initialisée
+[2026-03-25 16:25:25] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:25:25] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:25:25] [INFO   ] Scanner initialisé
+[2026-03-25 16:25:25] [THREAT ] CLAMAV DETECTED: Eicar-Signature IN: C:\av-shield\eicar.txt
+[2026-03-25 16:25:25] [INFO   ] Corrélation: C:\av-shield\eicar.txt → MALWARE (confiance: 95%)
+[2026-03-25 16:25:25] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:25:25] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:25:25] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:25:25] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:25:25] [INFO   ] Base de données initialisée
+[2026-03-25 16:25:25] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:25:25] [INFO   ] Base de données fermée
+[2026-03-25 16:25:25] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:25:25] [INFO   ] Base de données fermée
+[2026-03-25 16:25:25] [INFO   ] Scanner nettoyé
+[2026-03-25 16:25:25] [INFO   ] AV-Shield terminé
+[2026-03-25 16:25:25] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:27:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:27:06] [INFO   ] AV-Shield démarré
+[2026-03-25 16:27:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:27:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:27:06] [INFO   ] Base de données initialisée
+[2026-03-25 16:27:23] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:27:23] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:27:23] [INFO   ] Scanner initialisé
+[2026-03-25 16:27:23] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:27:23] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:27:23] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:27:23] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:27:23] [INFO   ] Rapport JSON généré
+[2026-03-25 16:27:23] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:27:23] [INFO   ] Base de données initialisée
+[2026-03-25 16:27:23] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:27:23] [INFO   ] Base de données fermée
+[2026-03-25 16:27:24] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:27:24] [INFO   ] Base de données fermée
+[2026-03-25 16:27:24] [INFO   ] Scanner nettoyé
+[2026-03-25 16:27:24] [INFO   ] AV-Shield terminé
+[2026-03-25 16:27:24] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:30:40] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:30:40] [INFO   ] AV-Shield démarré
+[2026-03-25 16:30:40] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:30:40] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:30:40] [INFO   ] Base de données initialisée
+[2026-03-25 16:30:57] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:30:57] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:30:57] [INFO   ] Scanner initialisé
+[2026-03-25 16:30:57] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:30:57] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:30:57] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:30:57] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:30:57] [INFO   ] Rapport JSON généré
+[2026-03-25 16:30:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:30:57] [INFO   ] Base de données initialisée
+[2026-03-25 16:30:57] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:30:57] [INFO   ] Base de données fermée
+[2026-03-25 16:30:57] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:30:57] [INFO   ] Base de données fermée
+[2026-03-25 16:30:57] [INFO   ] Scanner nettoyé
+[2026-03-25 16:30:57] [INFO   ] AV-Shield terminé
+[2026-03-25 16:30:57] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:32:18] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:32:18] [INFO   ] AV-Shield démarré
+[2026-03-25 16:32:18] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:32:18] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:32:18] [INFO   ] Base de données initialisée
+[2026-03-25 16:32:35] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:32:35] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:32:35] [INFO   ] Scanner initialisé
+[2026-03-25 16:32:35] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:32:35] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:32:35] [THREAT ] FILE: C:\av-shield\eicartest.txt               | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:32:35] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicartest.txt
+[2026-03-25 16:32:35] [INFO   ] Rapport JSON généré
+[2026-03-25 16:32:35] [INFO   ] Rapport HTML généré
+[2026-03-25 16:32:35] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:32:35] [INFO   ] Base de données initialisée
+[2026-03-25 16:32:35] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:32:35] [INFO   ] Base de données fermée
+[2026-03-25 16:32:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:32:36] [INFO   ] Base de données fermée
+[2026-03-25 16:32:36] [INFO   ] Scanner nettoyé
+[2026-03-25 16:32:36] [INFO   ] AV-Shield terminé
+[2026-03-25 16:32:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:34:19] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:34:19] [INFO   ] AV-Shield démarré
+[2026-03-25 16:34:19] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:34:19] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:34:19] [INFO   ] Base de données initialisée
+[2026-03-25 16:34:36] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:34:36] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:34:36] [INFO   ] Scanner initialisé
+[2026-03-25 16:34:36] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:34:36] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:34:36] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:34:36] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:34:36] [INFO   ] Rapport JSON généré
+[2026-03-25 16:34:36] [INFO   ] Rapport HTML généré
+[2026-03-25 16:34:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:34:36] [INFO   ] Base de données initialisée
+[2026-03-25 16:34:36] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:34:36] [INFO   ] Base de données fermée
+[2026-03-25 16:34:37] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:34:37] [INFO   ] Base de données fermée
+[2026-03-25 16:34:37] [INFO   ] Scanner nettoyé
+[2026-03-25 16:34:37] [INFO   ] AV-Shield terminé
+[2026-03-25 16:34:37] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:34:47] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:34:47] [INFO   ] AV-Shield démarré
+[2026-03-25 16:34:47] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:34:47] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:34:47] [INFO   ] Base de données initialisée
+[2026-03-25 16:35:04] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:35:04] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:35:04] [INFO   ] Scanner initialisé
+[2026-03-25 16:35:04] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:35:04] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:35:04] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:35:04] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:35:04] [INFO   ] Rapport JSON généré
+[2026-03-25 16:35:04] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:35:04] [INFO   ] Base de données initialisée
+[2026-03-25 16:35:04] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:35:04] [INFO   ] Base de données fermée
+[2026-03-25 16:35:04] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:35:04] [INFO   ] Base de données fermée
+[2026-03-25 16:35:04] [INFO   ] Scanner nettoyé
+[2026-03-25 16:35:04] [INFO   ] AV-Shield terminé
+[2026-03-25 16:35:04] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:38:58] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:38:58] [INFO   ] AV-Shield démarré
+[2026-03-25 16:38:58] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:38:58] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:38:58] [INFO   ] Base de données initialisée
+[2026-03-25 16:39:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:39:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:39:15] [INFO   ] Scanner initialisé
+[2026-03-25 16:39:15] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:39:15] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:39:15] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:39:15] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:39:15] [INFO   ] Rapport JSON généré
+[2026-03-25 16:39:15] [INFO   ] Rapport HTML généré
+[2026-03-25 16:39:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:39:15] [INFO   ] Base de données initialisée
+[2026-03-25 16:39:15] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:39:15] [INFO   ] Base de données fermée
+[2026-03-25 16:39:16] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:39:16] [INFO   ] Base de données fermée
+[2026-03-25 16:39:16] [INFO   ] Scanner nettoyé
+[2026-03-25 16:39:16] [INFO   ] AV-Shield terminé
+[2026-03-25 16:39:16] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:44:58] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:44:58] [INFO   ] AV-Shield démarré
+[2026-03-25 16:44:58] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:44:58] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:44:58] [INFO   ] Base de données initialisée
+[2026-03-25 16:45:16] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:45:16] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:45:16] [INFO   ] Scanner initialisé
+[2026-03-25 16:45:16] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:45:16] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:45:16] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:45:16] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:45:16] [INFO   ] Rapport JSON généré
+[2026-03-25 16:45:16] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:45:16] [INFO   ] Base de données initialisée
+[2026-03-25 16:45:16] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:45:16] [INFO   ] Base de données fermée
+[2026-03-25 16:45:17] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:45:17] [INFO   ] Base de données fermée
+[2026-03-25 16:45:17] [INFO   ] Scanner nettoyé
+[2026-03-25 16:45:17] [INFO   ] AV-Shield terminé
+[2026-03-25 16:45:17] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:48:30] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:48:30] [INFO   ] AV-Shield démarré
+[2026-03-25 16:48:30] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:48:30] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:48:30] [INFO   ] Base de données initialisée
+[2026-03-25 16:48:47] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:48:47] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:48:47] [INFO   ] Scanner initialisé
+[2026-03-25 16:48:47] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:48:47] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:48:47] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:48:47] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:48:47] [INFO   ] Rapport JSON généré
+[2026-03-25 16:48:47] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:48:47] [INFO   ] Base de données initialisée
+[2026-03-25 16:48:47] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:48:47] [INFO   ] Base de données fermée
+[2026-03-25 16:48:48] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:48:48] [INFO   ] Base de données fermée
+[2026-03-25 16:48:48] [INFO   ] Scanner nettoyé
+[2026-03-25 16:48:48] [INFO   ] AV-Shield terminé
+[2026-03-25 16:48:48] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:51:52] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:51:52] [INFO   ] AV-Shield démarré
+[2026-03-25 16:51:52] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:51:52] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:51:52] [INFO   ] Base de données initialisée
+[2026-03-25 16:52:09] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 16:52:09] [INFO   ] Quarantaine initialisée
+[2026-03-25 16:52:09] [INFO   ] Scanner initialisé
+[2026-03-25 16:52:09] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 16:52:09] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 16:52:09] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 16:52:09] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 16:52:09] [INFO   ] Rapport JSON généré
+[2026-03-25 16:52:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:52:09] [INFO   ] Base de données initialisée
+[2026-03-25 16:52:09] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 16:52:09] [INFO   ] Base de données fermée
+[2026-03-25 16:52:09] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 16:52:09] [INFO   ] Base de données fermée
+[2026-03-25 16:52:09] [INFO   ] Scanner nettoyé
+[2026-03-25 16:52:09] [INFO   ] AV-Shield terminé
+[2026-03-25 16:52:09] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 16:59:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 16:59:54] [INFO   ] AV-Shield démarré
+[2026-03-25 16:59:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 16:59:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 16:59:54] [INFO   ] Base de données initialisée
+[2026-03-25 17:00:05] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:00:05] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:00:05] [INFO   ] Scanner initialisé
+[2026-03-25 17:00:05] [INFO   ] Corrélation: C:\av-shield\test_clean.txt → CLEAN (confiance: 90%)
+[2026-03-25 17:00:05] [INFO   ] FILE: C:\av-shield\test_clean.txt              | RESULT: CLEAN      | SHA256: c7af0b27d9651def... | SIZE: 10 bytes
+[2026-03-25 17:00:05] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:00:05] [INFO   ] Base de données initialisée
+[2026-03-25 17:00:05] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:00:05] [INFO   ] Base de données fermée
+[2026-03-25 17:00:05] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:00:05] [INFO   ] Base de données fermée
+[2026-03-25 17:00:05] [INFO   ] Scanner nettoyé
+[2026-03-25 17:00:05] [INFO   ] AV-Shield terminé
+[2026-03-25 17:00:05] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:02:39] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:02:39] [INFO   ] AV-Shield démarré
+[2026-03-25 17:02:39] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:02:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:02:39] [INFO   ] Base de données initialisée
+[2026-03-25 17:02:57] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:02:57] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:02:57] [INFO   ] Scanner initialisé
+[2026-03-25 17:02:57] [THREAT ] CLAMAV DETECTED: Eicar-Signature IN: C:\av-shield\eicar.txt
+[2026-03-25 17:02:57] [INFO   ] Corrélation: C:\av-shield\eicar.txt → MALWARE (confiance: 95%)
+[2026-03-25 17:02:57] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:02:57] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 17:02:57] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:02:57] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 17:02:57] [INFO   ] Rapport JSON généré
+[2026-03-25 17:02:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:02:57] [INFO   ] Base de données initialisée
+[2026-03-25 17:02:57] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:02:57] [INFO   ] Base de données fermée
+[2026-03-25 17:02:57] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:02:57] [INFO   ] Base de données fermée
+[2026-03-25 17:02:57] [INFO   ] Scanner nettoyé
+[2026-03-25 17:02:57] [INFO   ] AV-Shield terminé
+[2026-03-25 17:02:57] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:11:45] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:11:45] [INFO   ] AV-Shield démarré
+[2026-03-25 17:11:45] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:11:45] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:11:45] [INFO   ] Base de données initialisée
+[2026-03-25 17:12:05] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:12:05] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:12:05] [INFO   ] Scanner initialisé
+[2026-03-25 17:12:05] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\test_monitor.txt → CLEAN (confiance: 90%)
+[2026-03-25 17:12:05] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\test_monitor.txt | RESULT: CLEAN      | SHA256: 6722aeed5f5d8297... | SIZE: 7 bytes
+[2026-03-25 17:12:05] [INFO   ] Rapport JSON généré
+[2026-03-25 17:12:05] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:12:05] [INFO   ] Base de données initialisée
+[2026-03-25 17:12:05] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:12:05] [INFO   ] Base de données fermée
+[2026-03-25 17:12:05] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:12:05] [INFO   ] Base de données fermée
+[2026-03-25 17:12:05] [INFO   ] Scanner nettoyé
+[2026-03-25 17:12:05] [INFO   ] AV-Shield terminé
+[2026-03-25 17:12:05] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:15:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:15:54] [INFO   ] AV-Shield démarré
+[2026-03-25 17:15:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:15:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:15:54] [INFO   ] Base de données initialisée
+[2026-03-25 17:16:04] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:16:04] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:16:04] [INFO   ] Scanner initialisé
+[2026-03-25 17:16:04] [INFO   ] Corrélation: C:\av-shield\test_clean.txt → CLEAN (confiance: 90%)
+[2026-03-25 17:16:04] [INFO   ] FILE: C:\av-shield\test_clean.txt              | RESULT: CLEAN      | SHA256: c7af0b27d9651def... | SIZE: 10 bytes
+[2026-03-25 17:16:04] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:16:04] [INFO   ] Base de données initialisée
+[2026-03-25 17:16:04] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:16:04] [INFO   ] Base de données fermée
+[2026-03-25 17:16:05] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:16:05] [INFO   ] Base de données fermée
+[2026-03-25 17:16:05] [INFO   ] Scanner nettoyé
+[2026-03-25 17:16:05] [INFO   ] AV-Shield terminé
+[2026-03-25 17:16:05] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:24:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:24:03] [INFO   ] AV-Shield démarré
+[2026-03-25 17:24:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:24:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:24:03] [INFO   ] Base de données initialisée
+[2026-03-25 17:24:21] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:24:21] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:24:21] [INFO   ] Scanner initialisé
+[2026-03-25 17:24:21] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\fix_watchdirs.py → CLEAN (confiance: 90%)
+[2026-03-25 17:24:21] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\fix_watchdirs.py | RESULT: CLEAN      | SHA256: 10204e1211be7774... | SIZE: 925 bytes
+[2026-03-25 17:24:21] [INFO   ] Rapport JSON généré
+[2026-03-25 17:24:21] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:24:21] [INFO   ] Base de données initialisée
+[2026-03-25 17:24:21] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:24:21] [INFO   ] Base de données fermée
+[2026-03-25 17:24:21] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:24:21] [INFO   ] Base de données fermée
+[2026-03-25 17:24:21] [INFO   ] Scanner nettoyé
+[2026-03-25 17:24:21] [INFO   ] AV-Shield terminé
+[2026-03-25 17:24:21] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:25:26] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:25:26] [INFO   ] AV-Shield démarré
+[2026-03-25 17:25:26] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:25:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:25:26] [INFO   ] Base de données initialisée
+[2026-03-25 17:25:42] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:25:42] [INFO   ] AV-Shield démarré
+[2026-03-25 17:25:42] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:25:42] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:25:42] [INFO   ] Base de données initialisée
+[2026-03-25 17:25:44] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:25:44] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:25:44] [INFO   ] Scanner initialisé
+[2026-03-25 17:25:44] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\test_eicar.txt → CLEAN (confiance: 90%)
+[2026-03-25 17:25:44] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar.txt | RESULT: CLEAN      | SHA256: ERROR... | SIZE: 68 bytes
+[2026-03-25 17:25:44] [INFO   ] Rapport JSON généré
+[2026-03-25 17:25:44] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:25:44] [INFO   ] Base de données initialisée
+[2026-03-25 17:25:44] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:25:44] [INFO   ] Base de données fermée
+[2026-03-25 17:25:45] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:25:45] [INFO   ] Base de données fermée
+[2026-03-25 17:25:45] [INFO   ] Scanner nettoyé
+[2026-03-25 17:25:45] [INFO   ] AV-Shield terminé
+[2026-03-25 17:25:45] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:26:05] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:26:05] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:26:05] [INFO   ] Scanner initialisé
+[2026-03-25 17:26:05] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-17812.log → CLEAN (confiance: 90%)
+[2026-03-25 17:26:05] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-17812.log | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:26:05] [INFO   ] Rapport JSON généré
+[2026-03-25 17:26:05] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:26:05] [INFO   ] Base de données initialisée
+[2026-03-25 17:26:05] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:26:05] [INFO   ] Base de données fermée
+[2026-03-25 17:26:06] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:26:06] [INFO   ] Base de données fermée
+[2026-03-25 17:26:06] [INFO   ] Scanner nettoyé
+[2026-03-25 17:26:06] [INFO   ] AV-Shield terminé
+[2026-03-25 17:26:06] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:26:57] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:26:57] [INFO   ] AV-Shield démarré
+[2026-03-25 17:26:57] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:26:57] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:26:57] [INFO   ] Base de données initialisée
+[2026-03-25 17:27:18] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:27:18] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:27:18] [INFO   ] Scanner initialisé
+[2026-03-25 17:27:18] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\test_eicar2.txt → CLEAN (confiance: 90%)
+[2026-03-25 17:27:18] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar2.txt | RESULT: CLEAN      | SHA256: ERROR... | SIZE: 68 bytes
+[2026-03-25 17:27:18] [INFO   ] Rapport JSON généré
+[2026-03-25 17:27:18] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:27:18] [INFO   ] Base de données initialisée
+[2026-03-25 17:27:18] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:27:18] [INFO   ] Base de données fermée
+[2026-03-25 17:27:19] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:27:19] [INFO   ] Base de données fermée
+[2026-03-25 17:27:19] [INFO   ] Scanner nettoyé
+[2026-03-25 17:27:19] [INFO   ] AV-Shield terminé
+[2026-03-25 17:27:19] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:27:49] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:27:49] [INFO   ] AV-Shield démarré
+[2026-03-25 17:27:49] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:27:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:27:49] [INFO   ] Base de données initialisée
+[2026-03-25 17:28:08] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:28:08] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:28:08] [INFO   ] Scanner initialisé
+[2026-03-25 17:28:08] [THREAT ] CLAMAV DETECTED: Eicar-Signature IN: C:\Users\Dell Latitude\Downloads\test_eicar2.txt
+[2026-03-25 17:28:08] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\test_eicar2.txt → MALWARE (confiance: 95%)
+[2026-03-25 17:28:08] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:28:08] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar2.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:28:08] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar2.txt
+[2026-03-25 17:28:08] [INFO   ] Rapport JSON généré
+[2026-03-25 17:28:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:28:08] [INFO   ] Base de données initialisée
+[2026-03-25 17:28:08] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:28:08] [INFO   ] Base de données fermée
+[2026-03-25 17:28:08] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:28:08] [INFO   ] Base de données fermée
+[2026-03-25 17:28:08] [INFO   ] Scanner nettoyé
+[2026-03-25 17:28:08] [INFO   ] AV-Shield terminé
+[2026-03-25 17:28:08] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:29:54] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:29:54] [INFO   ] AV-Shield démarré
+[2026-03-25 17:29:54] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:29:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:29:54] [INFO   ] Base de données initialisée
+[2026-03-25 17:30:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:30:03] [INFO   ] AV-Shield démarré
+[2026-03-25 17:30:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:30:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:30:03] [INFO   ] Base de données initialisée
+[2026-03-25 17:30:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:30:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:30:15] [INFO   ] Scanner initialisé
+[2026-03-25 17:30:15] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\test_backdoor.py → CLEAN (confiance: 90%)
+[2026-03-25 17:30:15] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\test_backdoor.py | RESULT: CLEAN      | SHA256: 6e7644a8ccbbd60d... | SIZE: 193 bytes
+[2026-03-25 17:30:15] [INFO   ] Rapport JSON généré
+[2026-03-25 17:30:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:30:15] [INFO   ] Base de données initialisée
+[2026-03-25 17:30:15] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:30:15] [INFO   ] Base de données fermée
+[2026-03-25 17:30:15] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:30:15] [INFO   ] Base de données fermée
+[2026-03-25 17:30:15] [INFO   ] Scanner nettoyé
+[2026-03-25 17:30:15] [INFO   ] AV-Shield terminé
+[2026-03-25 17:30:15] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:30:24] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:30:24] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:30:24] [INFO   ] Scanner initialisé
+[2026-03-25 17:30:24] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\ArmUI.ini → CLEAN (confiance: 90%)
+[2026-03-25 17:30:24] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\ArmUI.ini | RESULT: CLEAN      | SHA256: ERROR... | SIZE: 0 bytes
+[2026-03-25 17:30:24] [INFO   ] Rapport JSON généré
+[2026-03-25 17:30:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:30:24] [INFO   ] Base de données initialisée
+[2026-03-25 17:30:24] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:30:24] [INFO   ] Base de données fermée
+[2026-03-25 17:30:25] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:30:25] [INFO   ] Base de données fermée
+[2026-03-25 17:30:25] [INFO   ] Scanner nettoyé
+[2026-03-25 17:30:25] [INFO   ] AV-Shield terminé
+[2026-03-25 17:30:25] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:31:48] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:31:48] [INFO   ] AV-Shield démarré
+[2026-03-25 17:31:48] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:31:48] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:31:48] [INFO   ] Base de données initialisée
+[2026-03-25 17:32:07] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:32:07] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:32:07] [INFO   ] Scanner initialisé
+[2026-03-25 17:32:07] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:32:07] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar3.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:32:07] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar3.txt
+[2026-03-25 17:32:07] [INFO   ] Rapport JSON généré
+[2026-03-25 17:32:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:32:07] [INFO   ] Base de données initialisée
+[2026-03-25 17:32:07] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:32:07] [INFO   ] Base de données fermée
+[2026-03-25 17:32:08] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:32:08] [INFO   ] Base de données fermée
+[2026-03-25 17:32:08] [INFO   ] Scanner nettoyé
+[2026-03-25 17:32:08] [INFO   ] AV-Shield terminé
+[2026-03-25 17:32:08] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:33:49] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:33:49] [INFO   ] AV-Shield démarré
+[2026-03-25 17:33:49] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:33:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:33:49] [INFO   ] Base de données initialisée
+[2026-03-25 17:34:08] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:34:08] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:34:08] [INFO   ] Scanner initialisé
+[2026-03-25 17:34:08] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:34:08] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar4.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:34:08] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar4.txt
+[2026-03-25 17:34:08] [INFO   ] Rapport JSON généré
+[2026-03-25 17:34:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:34:08] [INFO   ] Base de données initialisée
+[2026-03-25 17:34:08] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:34:08] [INFO   ] Base de données fermée
+[2026-03-25 17:34:08] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:34:08] [INFO   ] Base de données fermée
+[2026-03-25 17:34:08] [INFO   ] Scanner nettoyé
+[2026-03-25 17:34:08] [INFO   ] AV-Shield terminé
+[2026-03-25 17:34:08] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:36:05] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:36:05] [INFO   ] AV-Shield démarré
+[2026-03-25 17:36:05] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:36:05] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:36:05] [INFO   ] Base de données initialisée
+[2026-03-25 17:36:22] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:36:22] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:36:22] [INFO   ] Scanner initialisé
+[2026-03-25 17:36:22] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:36:22] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar5.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:36:22] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar5.txt
+[2026-03-25 17:36:22] [INFO   ] Rapport JSON généré
+[2026-03-25 17:36:22] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:36:22] [INFO   ] Base de données initialisée
+[2026-03-25 17:36:22] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:36:22] [INFO   ] Base de données fermée
+[2026-03-25 17:36:23] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:36:23] [INFO   ] Base de données fermée
+[2026-03-25 17:36:23] [INFO   ] Scanner nettoyé
+[2026-03-25 17:36:23] [INFO   ] AV-Shield terminé
+[2026-03-25 17:36:23] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:38:21] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:38:21] [INFO   ] AV-Shield démarré
+[2026-03-25 17:38:21] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:38:21] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:38:21] [INFO   ] Base de données initialisée
+[2026-03-25 17:38:40] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:38:40] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:38:40] [INFO   ] Scanner initialisé
+[2026-03-25 17:38:40] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:38:40] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar6.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:38:40] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar6.txt
+[2026-03-25 17:38:40] [INFO   ] Rapport JSON généré
+[2026-03-25 17:38:40] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:38:40] [INFO   ] Base de données initialisée
+[2026-03-25 17:38:40] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:38:40] [INFO   ] Base de données fermée
+[2026-03-25 17:38:41] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:38:41] [INFO   ] Base de données fermée
+[2026-03-25 17:38:41] [INFO   ] Scanner nettoyé
+[2026-03-25 17:38:41] [INFO   ] AV-Shield terminé
+[2026-03-25 17:38:41] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:43:48] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:43:48] [INFO   ] AV-Shield démarré
+[2026-03-25 17:43:48] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:43:48] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:43:48] [INFO   ] Base de données initialisée
+[2026-03-25 17:43:52] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:43:52] [INFO   ] AV-Shield démarré
+[2026-03-25 17:43:52] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:43:52] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:43:52] [INFO   ] Base de données initialisée
+[2026-03-25 17:44:12] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:44:12] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:44:12] [INFO   ] Scanner initialisé
+[2026-03-25 17:44:12] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\fix_monitor_result.py → CLEAN (confiance: 90%)
+[2026-03-25 17:44:12] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\fix_monitor_result.py | RESULT: CLEAN      | SHA256: 2f14f8729169ed15... | SIZE: 2164 bytes
+[2026-03-25 17:44:12] [INFO   ] Rapport JSON généré
+[2026-03-25 17:44:12] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:44:12] [INFO   ] Base de données initialisée
+[2026-03-25 17:44:12] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:44:12] [INFO   ] Base de données fermée
+[2026-03-25 17:44:13] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:44:13] [INFO   ] Base de données fermée
+[2026-03-25 17:44:13] [INFO   ] Scanner nettoyé
+[2026-03-25 17:44:13] [INFO   ] AV-Shield terminé
+[2026-03-25 17:44:13] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:44:18] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:44:18] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:44:18] [INFO   ] Scanner initialisé
+[2026-03-25 17:44:18] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\vscode-inno-updater-1774457029.log → CLEAN (confiance: 90%)
+[2026-03-25 17:44:18] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\vscode-inno-updater-1774457029.log | RESULT: CLEAN      | SHA256: 87f855672abaf7f9... | SIZE: 3356 bytes
+[2026-03-25 17:44:18] [INFO   ] Rapport JSON généré
+[2026-03-25 17:44:18] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:44:18] [INFO   ] Base de données initialisée
+[2026-03-25 17:44:18] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:44:18] [INFO   ] Base de données fermée
+[2026-03-25 17:44:18] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:44:18] [INFO   ] Base de données fermée
+[2026-03-25 17:44:18] [INFO   ] Scanner nettoyé
+[2026-03-25 17:44:18] [INFO   ] AV-Shield terminé
+[2026-03-25 17:44:18] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:48:19] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:48:19] [INFO   ] AV-Shield démarré
+[2026-03-25 17:48:19] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:48:19] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:48:19] [INFO   ] Base de données initialisée
+[2026-03-25 17:48:37] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:48:37] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:48:37] [INFO   ] Scanner initialisé
+[2026-03-25 17:48:37] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:48:37] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar7.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:48:37] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar7.txt
+[2026-03-25 17:48:37] [INFO   ] Rapport JSON généré
+[2026-03-25 17:48:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:48:37] [INFO   ] Base de données initialisée
+[2026-03-25 17:48:37] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:48:37] [INFO   ] Base de données fermée
+[2026-03-25 17:48:38] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:48:38] [INFO   ] Base de données fermée
+[2026-03-25 17:48:38] [INFO   ] Scanner nettoyé
+[2026-03-25 17:48:38] [INFO   ] AV-Shield terminé
+[2026-03-25 17:48:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:50:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:50:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:50:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:50:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:50:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:50:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:50:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:50:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:50:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:50:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:50:37] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:50:37] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:50:37] [INFO   ] Scanner initialisé
+[2026-03-25 17:50:37] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (477).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:50:37] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (477).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:50:37] [INFO   ] Rapport JSON généré
+[2026-03-25 17:50:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:50:37] [INFO   ] Base de données initialisée
+[2026-03-25 17:50:37] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:50:37] [INFO   ] Base de données fermée
+[2026-03-25 17:50:37] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:50:37] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:50:37] [INFO   ] Scanner initialisé
+[2026-03-25 17:50:37] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (478).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:50:37] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (478).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:50:37] [INFO   ] Rapport JSON généré
+[2026-03-25 17:50:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:50:37] [INFO   ] Base de données initialisée
+[2026-03-25 17:50:37] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:50:37] [INFO   ] Base de données fermée
+[2026-03-25 17:50:38] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:50:38] [INFO   ] Base de données fermée
+[2026-03-25 17:50:38] [INFO   ] Scanner nettoyé
+[2026-03-25 17:50:38] [INFO   ] AV-Shield terminé
+[2026-03-25 17:50:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:50:38] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:50:38] [INFO   ] Base de données fermée
+[2026-03-25 17:50:38] [INFO   ] Scanner nettoyé
+[2026-03-25 17:50:38] [INFO   ] AV-Shield terminé
+[2026-03-25 17:50:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:51:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:51:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:51:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:51:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:51:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:51:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:51:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:51:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:51:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:51:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:51:39] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:51:39] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:51:39] [INFO   ] Scanner initialisé
+[2026-03-25 17:51:39] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (479).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:51:39] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (479).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:51:39] [INFO   ] Rapport JSON généré
+[2026-03-25 17:51:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:51:39] [INFO   ] Base de données initialisée
+[2026-03-25 17:51:39] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:51:39] [INFO   ] Base de données fermée
+[2026-03-25 17:51:39] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:51:39] [INFO   ] Base de données fermée
+[2026-03-25 17:51:39] [INFO   ] Scanner nettoyé
+[2026-03-25 17:51:39] [INFO   ] AV-Shield terminé
+[2026-03-25 17:51:39] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:51:40] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:51:40] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:51:40] [INFO   ] Scanner initialisé
+[2026-03-25 17:51:40] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (480).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:51:40] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (480).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:51:40] [INFO   ] Rapport JSON généré
+[2026-03-25 17:51:40] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:51:40] [INFO   ] Base de données initialisée
+[2026-03-25 17:51:40] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:51:40] [INFO   ] Base de données fermée
+[2026-03-25 17:51:41] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:51:41] [INFO   ] Base de données fermée
+[2026-03-25 17:51:41] [INFO   ] Scanner nettoyé
+[2026-03-25 17:51:41] [INFO   ] AV-Shield terminé
+[2026-03-25 17:51:41] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:52:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:52:07] [INFO   ] AV-Shield démarré
+[2026-03-25 17:52:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:52:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:07] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:52:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:52:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:52:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:52:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:52:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:52:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:52:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:52:26] [INFO   ] Scanner initialisé
+[2026-03-25 17:52:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\show_monitor.py → CLEAN (confiance: 90%)
+[2026-03-25 17:52:26] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\show_monitor.py | RESULT: CLEAN      | SHA256: 5359f634ee942af2... | SIZE: 198 bytes
+[2026-03-25 17:52:26] [INFO   ] Rapport JSON généré
+[2026-03-25 17:52:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:26] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:52:26] [INFO   ] Base de données fermée
+[2026-03-25 17:52:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:52:27] [INFO   ] Base de données fermée
+[2026-03-25 17:52:27] [INFO   ] Scanner nettoyé
+[2026-03-25 17:52:27] [INFO   ] AV-Shield terminé
+[2026-03-25 17:52:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:52:36] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:52:36] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:52:36] [INFO   ] Scanner initialisé
+[2026-03-25 17:52:36] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (481).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:52:36] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (481).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:52:36] [INFO   ] Rapport JSON généré
+[2026-03-25 17:52:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:36] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:36] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:52:36] [INFO   ] Base de données fermée
+[2026-03-25 17:52:36] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:52:36] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:52:36] [INFO   ] Scanner initialisé
+[2026-03-25 17:52:36] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (482).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:52:36] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (482).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:52:36] [INFO   ] Rapport JSON généré
+[2026-03-25 17:52:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:52:36] [INFO   ] Base de données initialisée
+[2026-03-25 17:52:36] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:52:36] [INFO   ] Base de données fermée
+[2026-03-25 17:52:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:52:36] [INFO   ] Base de données fermée
+[2026-03-25 17:52:36] [INFO   ] Scanner nettoyé
+[2026-03-25 17:52:36] [INFO   ] AV-Shield terminé
+[2026-03-25 17:52:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:52:37] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:52:37] [INFO   ] Base de données fermée
+[2026-03-25 17:52:37] [INFO   ] Scanner nettoyé
+[2026-03-25 17:52:37] [INFO   ] AV-Shield terminé
+[2026-03-25 17:52:37] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:53:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:53:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:53:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:53:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:53:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:53:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:53:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:53:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:53:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:53:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:53:37] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:53:37] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:53:37] [INFO   ] Scanner initialisé
+[2026-03-25 17:53:37] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (483).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:53:37] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (483).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:53:37] [INFO   ] Rapport JSON généré
+[2026-03-25 17:53:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:53:37] [INFO   ] Base de données initialisée
+[2026-03-25 17:53:37] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:53:37] [INFO   ] Base de données fermée
+[2026-03-25 17:53:38] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:53:38] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:53:38] [INFO   ] Scanner initialisé
+[2026-03-25 17:53:38] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (484).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:53:38] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (484).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:53:38] [INFO   ] Rapport JSON généré
+[2026-03-25 17:53:38] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:53:38] [INFO   ] Base de données initialisée
+[2026-03-25 17:53:38] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:53:38] [INFO   ] Base de données fermée
+[2026-03-25 17:53:38] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:53:38] [INFO   ] Base de données fermée
+[2026-03-25 17:53:38] [INFO   ] Scanner nettoyé
+[2026-03-25 17:53:38] [INFO   ] AV-Shield terminé
+[2026-03-25 17:53:38] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:53:39] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:53:39] [INFO   ] Base de données fermée
+[2026-03-25 17:53:39] [INFO   ] Scanner nettoyé
+[2026-03-25 17:53:39] [INFO   ] AV-Shield terminé
+[2026-03-25 17:53:39] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:54:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:54:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:54:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:54:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:54:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:54:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:54:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:17] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:54:17] [INFO   ] AV-Shield démarré
+[2026-03-25 17:54:17] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:54:17] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:17] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:35] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:54:35] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:54:35] [INFO   ] Scanner initialisé
+[2026-03-25 17:54:35] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (485).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:54:35] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (485).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:54:35] [INFO   ] Rapport JSON généré
+[2026-03-25 17:54:35] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:35] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:35] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:54:35] [INFO   ] Base de données fermée
+[2026-03-25 17:54:35] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:54:35] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:54:35] [INFO   ] Scanner initialisé
+[2026-03-25 17:54:35] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (486).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:54:35] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (486).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:54:35] [INFO   ] Rapport JSON généré
+[2026-03-25 17:54:35] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:35] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:35] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:54:35] [INFO   ] Base de données fermée
+[2026-03-25 17:54:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:54:36] [INFO   ] Base de données fermée
+[2026-03-25 17:54:36] [INFO   ] Scanner nettoyé
+[2026-03-25 17:54:36] [INFO   ] AV-Shield terminé
+[2026-03-25 17:54:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:54:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:54:36] [INFO   ] Base de données fermée
+[2026-03-25 17:54:36] [INFO   ] Scanner nettoyé
+[2026-03-25 17:54:36] [INFO   ] AV-Shield terminé
+[2026-03-25 17:54:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:54:40] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:54:40] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:54:40] [INFO   ] Scanner initialisé
+[2026-03-25 17:54:40] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\fix_report_true.py → CLEAN (confiance: 90%)
+[2026-03-25 17:54:40] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\fix_report_true.py | RESULT: CLEAN      | SHA256: 199234213a2e0407... | SIZE: 356 bytes
+[2026-03-25 17:54:40] [INFO   ] Rapport JSON généré
+[2026-03-25 17:54:40] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:54:40] [INFO   ] Base de données initialisée
+[2026-03-25 17:54:40] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:54:40] [INFO   ] Base de données fermée
+[2026-03-25 17:54:41] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:54:41] [INFO   ] Base de données fermée
+[2026-03-25 17:54:41] [INFO   ] Scanner nettoyé
+[2026-03-25 17:54:41] [INFO   ] AV-Shield terminé
+[2026-03-25 17:54:41] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:55:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:55:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:55:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:55:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:55:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:55:13] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:55:13] [INFO   ] AV-Shield démarré
+[2026-03-25 17:55:13] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:55:13] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:55:13] [INFO   ] Base de données initialisée
+[2026-03-25 17:55:35] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:55:35] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:55:35] [INFO   ] Scanner initialisé
+[2026-03-25 17:55:35] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (487).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:55:35] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (487).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:55:35] [INFO   ] Rapport JSON généré
+[2026-03-25 17:55:35] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:55:35] [INFO   ] Base de données initialisée
+[2026-03-25 17:55:35] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:55:35] [INFO   ] Base de données fermée
+[2026-03-25 17:55:36] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:55:36] [INFO   ] Base de données fermée
+[2026-03-25 17:55:36] [INFO   ] Scanner nettoyé
+[2026-03-25 17:55:36] [INFO   ] AV-Shield terminé
+[2026-03-25 17:55:36] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:55:36] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:55:36] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:55:36] [INFO   ] Scanner initialisé
+[2026-03-25 17:55:36] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (488).xml → CLEAN (confiance: 90%)
+[2026-03-25 17:55:36] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (488).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 17:55:36] [INFO   ] Rapport JSON généré
+[2026-03-25 17:55:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:55:36] [INFO   ] Base de données initialisée
+[2026-03-25 17:55:36] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:55:36] [INFO   ] Base de données fermée
+[2026-03-25 17:55:37] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:55:37] [INFO   ] Base de données fermée
+[2026-03-25 17:55:37] [INFO   ] Scanner nettoyé
+[2026-03-25 17:55:37] [INFO   ] AV-Shield terminé
+[2026-03-25 17:55:37] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:55:56] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:55:56] [INFO   ] AV-Shield démarré
+[2026-03-25 17:55:56] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:55:56] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:55:56] [INFO   ] Base de données initialisée
+[2026-03-25 17:56:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:56:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:56:15] [INFO   ] Scanner initialisé
+[2026-03-25 17:56:15] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 17:56:15] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar8.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 17:56:15] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar8.txt
+[2026-03-25 17:56:15] [INFO   ] Rapport JSON généré
+[2026-03-25 17:56:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:56:15] [INFO   ] Base de données initialisée
+[2026-03-25 17:56:15] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:56:15] [INFO   ] Base de données fermée
+[2026-03-25 17:56:16] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:56:16] [INFO   ] Base de données fermée
+[2026-03-25 17:56:16] [INFO   ] Scanner nettoyé
+[2026-03-25 17:56:16] [INFO   ] AV-Shield terminé
+[2026-03-25 17:56:16] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 17:59:37] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 17:59:37] [INFO   ] AV-Shield démarré
+[2026-03-25 17:59:37] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 17:59:37] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:59:37] [INFO   ] Base de données initialisée
+[2026-03-25 17:59:55] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 17:59:55] [INFO   ] Quarantaine initialisée
+[2026-03-25 17:59:55] [INFO   ] Scanner initialisé
+[2026-03-25 17:59:55] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\realtime_monitor_new.py → CLEAN (confiance: 90%)
+[2026-03-25 17:59:55] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\realtime_monitor_new.py | RESULT: CLEAN      | SHA256: 8771bf299c9e2515... | SIZE: 6826 bytes
+[2026-03-25 17:59:55] [INFO   ] Rapport JSON généré
+[2026-03-25 17:59:55] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 17:59:55] [INFO   ] Base de données initialisée
+[2026-03-25 17:59:55] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 17:59:55] [INFO   ] Base de données fermée
+[2026-03-25 17:59:56] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 17:59:56] [INFO   ] Base de données fermée
+[2026-03-25 17:59:56] [INFO   ] Scanner nettoyé
+[2026-03-25 17:59:56] [INFO   ] AV-Shield terminé
+[2026-03-25 17:59:56] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:00:33] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:00:33] [INFO   ] AV-Shield démarré
+[2026-03-25 18:00:33] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:00:33] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:00:33] [INFO   ] Base de données initialisée
+[2026-03-25 18:00:51] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:00:51] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:00:51] [INFO   ] Scanner initialisé
+[2026-03-25 18:00:51] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 18:00:51] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar9.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 18:00:51] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar9.txt
+[2026-03-25 18:00:51] [INFO   ] Rapport JSON généré
+[2026-03-25 18:00:51] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:00:51] [INFO   ] Base de données initialisée
+[2026-03-25 18:00:51] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:00:51] [INFO   ] Base de données fermée
+[2026-03-25 18:00:52] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:00:52] [INFO   ] Base de données fermée
+[2026-03-25 18:00:52] [INFO   ] Scanner nettoyé
+[2026-03-25 18:00:52] [INFO   ] AV-Shield terminé
+[2026-03-25 18:00:52] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:13:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:13:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:13:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:13:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:13:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:13:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:13:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:13:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:13:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:13:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:13:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:13:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:13:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:13:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (489).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:13:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (489).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:13:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:13:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:13:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:13:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:13:29] [INFO   ] Base de données fermée
+[2026-03-25 18:13:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:13:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:13:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:13:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (490).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:13:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (490).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:13:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:13:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:13:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:13:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:13:29] [INFO   ] Base de données fermée
+[2026-03-25 18:13:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:13:30] [INFO   ] Base de données fermée
+[2026-03-25 18:13:30] [INFO   ] Scanner nettoyé
+[2026-03-25 18:13:30] [INFO   ] AV-Shield terminé
+[2026-03-25 18:13:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:13:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:13:30] [INFO   ] Base de données fermée
+[2026-03-25 18:13:30] [INFO   ] Scanner nettoyé
+[2026-03-25 18:13:30] [INFO   ] AV-Shield terminé
+[2026-03-25 18:13:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:14:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:14:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:14:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:14:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:14:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:14:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:14:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:14:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:14:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:14:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:14:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:14:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:14:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:14:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (491).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:14:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (491).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:14:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:14:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:14:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:14:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:14:29] [INFO   ] Base de données fermée
+[2026-03-25 18:14:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:14:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:14:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:14:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (492).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:14:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (492).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:14:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:14:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:14:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:14:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:14:29] [INFO   ] Base de données fermée
+[2026-03-25 18:14:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:14:29] [INFO   ] Base de données fermée
+[2026-03-25 18:14:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:14:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:14:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:14:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:14:30] [INFO   ] Base de données fermée
+[2026-03-25 18:14:30] [INFO   ] Scanner nettoyé
+[2026-03-25 18:14:30] [INFO   ] AV-Shield terminé
+[2026-03-25 18:14:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:15:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:15:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:15:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:15:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:15:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:15:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:15:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:15:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:15:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:15:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:15:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:15:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:15:28] [INFO   ] Scanner initialisé
+[2026-03-25 18:15:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (493).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:15:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (493).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:15:28] [INFO   ] Rapport JSON généré
+[2026-03-25 18:15:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:15:28] [INFO   ] Base de données initialisée
+[2026-03-25 18:15:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:15:28] [INFO   ] Base de données fermée
+[2026-03-25 18:15:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:15:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:15:28] [INFO   ] Scanner initialisé
+[2026-03-25 18:15:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (494).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:15:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (494).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:15:28] [INFO   ] Rapport JSON généré
+[2026-03-25 18:15:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:15:28] [INFO   ] Base de données initialisée
+[2026-03-25 18:15:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:15:29] [INFO   ] Base de données fermée
+[2026-03-25 18:15:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:15:29] [INFO   ] Base de données fermée
+[2026-03-25 18:15:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:15:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:15:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:15:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:15:29] [INFO   ] Base de données fermée
+[2026-03-25 18:15:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:15:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:15:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:16:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:16:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:16:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:16:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:16:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:16:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:16:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:16:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:16:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:16:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:16:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:16:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:16:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:16:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (495).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:16:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (495).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:16:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:16:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:16:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:16:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:16:29] [INFO   ] Base de données fermée
+[2026-03-25 18:16:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:16:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:16:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:16:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (496).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:16:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (496).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:16:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:16:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:16:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:16:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:16:29] [INFO   ] Base de données fermée
+[2026-03-25 18:16:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:16:29] [INFO   ] Base de données fermée
+[2026-03-25 18:16:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:16:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:16:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:16:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:16:29] [INFO   ] Base de données fermée
+[2026-03-25 18:16:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:16:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:16:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:17:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:17:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:17:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:17:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:17:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:17:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:17:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:17:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:17:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:17:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:17:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:17:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:17:28] [INFO   ] Scanner initialisé
+[2026-03-25 18:17:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (497).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:17:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (497).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:17:28] [INFO   ] Rapport JSON généré
+[2026-03-25 18:17:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:17:28] [INFO   ] Base de données initialisée
+[2026-03-25 18:17:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:17:28] [INFO   ] Base de données fermée
+[2026-03-25 18:17:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:17:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:17:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:17:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (498).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:17:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (498).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:17:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:17:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:17:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:17:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:17:29] [INFO   ] Base de données fermée
+[2026-03-25 18:17:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:17:29] [INFO   ] Base de données fermée
+[2026-03-25 18:17:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:17:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:17:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:17:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:17:29] [INFO   ] Base de données fermée
+[2026-03-25 18:17:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:17:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:17:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:18:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:18:08] [INFO   ] AV-Shield démarré
+[2026-03-25 18:18:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:18:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:18:08] [INFO   ] Base de données initialisée
+[2026-03-25 18:18:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:18:09] [INFO   ] AV-Shield démarré
+[2026-03-25 18:18:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:18:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:18:09] [INFO   ] Base de données initialisée
+[2026-03-25 18:18:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:18:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:18:28] [INFO   ] Scanner initialisé
+[2026-03-25 18:18:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (499).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:18:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (499).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:18:28] [INFO   ] Rapport JSON généré
+[2026-03-25 18:18:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:18:28] [INFO   ] Base de données initialisée
+[2026-03-25 18:18:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:18:28] [INFO   ] Base de données fermée
+[2026-03-25 18:18:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:18:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:18:29] [INFO   ] Scanner initialisé
+[2026-03-25 18:18:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (500).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:18:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (500).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:18:29] [INFO   ] Rapport JSON généré
+[2026-03-25 18:18:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:18:29] [INFO   ] Base de données initialisée
+[2026-03-25 18:18:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:18:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:18:29] [INFO   ] Base de données fermée
+[2026-03-25 18:18:29] [INFO   ] Scanner nettoyé
+[2026-03-25 18:18:29] [INFO   ] AV-Shield terminé
+[2026-03-25 18:18:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:18:29] [INFO   ] Base de données fermée
+[2026-03-25 18:18:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:18:30] [INFO   ] Base de données fermée
+[2026-03-25 18:18:30] [INFO   ] Scanner nettoyé
+[2026-03-25 18:18:30] [INFO   ] AV-Shield terminé
+[2026-03-25 18:18:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:26:24] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:26:24] [INFO   ] AV-Shield démarré
+[2026-03-25 18:26:24] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:26:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:26:24] [INFO   ] Base de données initialisée
+[2026-03-25 18:26:41] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:26:41] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:26:41] [INFO   ] Scanner initialisé
+[2026-03-25 18:26:41] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-23776.log → CLEAN (confiance: 90%)
+[2026-03-25 18:26:41] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-23776.log | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:26:41] [INFO   ] Rapport JSON généré
+[2026-03-25 18:26:41] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:26:41] [INFO   ] Base de données initialisée
+[2026-03-25 18:26:41] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:26:41] [INFO   ] Base de données fermée
+[2026-03-25 18:26:42] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:26:42] [INFO   ] Base de données fermée
+[2026-03-25 18:26:42] [INFO   ] Scanner nettoyé
+[2026-03-25 18:26:42] [INFO   ] AV-Shield terminé
+[2026-03-25 18:26:42] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:28:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:28:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:28:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:28:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:28:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:28:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:28:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:28:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:28:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:28:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:28:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:28:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:28:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:28:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (501).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:28:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (501).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:28:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:28:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:28:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:28:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:28:27] [INFO   ] Base de données fermée
+[2026-03-25 18:28:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:28:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:28:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:28:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (502).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:28:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (502).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:28:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:28:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:28:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:28:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:28:27] [INFO   ] Base de données fermée
+[2026-03-25 18:28:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:28:27] [INFO   ] Base de données fermée
+[2026-03-25 18:28:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:28:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:28:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:28:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:28:28] [INFO   ] Base de données fermée
+[2026-03-25 18:28:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:28:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:28:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:29:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:29:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:29:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:29:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:29:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:29:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:29:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:29:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:29:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:29:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:29:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:29:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:29:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:29:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (503).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:29:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (503).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:29:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:29:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:29:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:29:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:29:27] [INFO   ] Base de données fermée
+[2026-03-25 18:29:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:29:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:29:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:29:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (504).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:29:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (504).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:29:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:29:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:29:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:29:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:29:27] [INFO   ] Base de données fermée
+[2026-03-25 18:29:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:29:27] [INFO   ] Base de données fermée
+[2026-03-25 18:29:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:29:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:29:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:29:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:29:28] [INFO   ] Base de données fermée
+[2026-03-25 18:29:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:29:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:29:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:30:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:30:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:30:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:30:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:30:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:30:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:30:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:30:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:30:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:30:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:30:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:30:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:30:26] [INFO   ] Scanner initialisé
+[2026-03-25 18:30:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (505).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:30:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (505).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:30:26] [INFO   ] Rapport JSON généré
+[2026-03-25 18:30:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:30:26] [INFO   ] Base de données initialisée
+[2026-03-25 18:30:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:30:26] [INFO   ] Base de données fermée
+[2026-03-25 18:30:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:30:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:30:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:30:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (506).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:30:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (506).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:30:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:30:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:30:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:30:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:30:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:30:27] [INFO   ] Base de données fermée
+[2026-03-25 18:30:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:30:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:30:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:30:27] [INFO   ] Base de données fermée
+[2026-03-25 18:30:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:30:27] [INFO   ] Base de données fermée
+[2026-03-25 18:30:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:30:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:30:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:31:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:31:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:31:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:31:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:31:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:31:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:31:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:31:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:31:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:31:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:31:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:31:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:31:26] [INFO   ] Scanner initialisé
+[2026-03-25 18:31:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (507).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:31:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (507).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:31:26] [INFO   ] Rapport JSON généré
+[2026-03-25 18:31:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:31:26] [INFO   ] Base de données initialisée
+[2026-03-25 18:31:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:31:26] [INFO   ] Base de données fermée
+[2026-03-25 18:31:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:31:27] [INFO   ] Base de données fermée
+[2026-03-25 18:31:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:31:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:31:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:31:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:31:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:31:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:31:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (508).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:31:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (508).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:31:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:31:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:31:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:31:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:31:27] [INFO   ] Base de données fermée
+[2026-03-25 18:31:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:31:28] [INFO   ] Base de données fermée
+[2026-03-25 18:31:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:31:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:31:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:32:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:32:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:32:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:32:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:32:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:32:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:32:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:32:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:32:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:32:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:32:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:32:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:32:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:32:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (509).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:32:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (509).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:32:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:32:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:32:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:32:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:32:27] [INFO   ] Base de données fermée
+[2026-03-25 18:32:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:32:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:32:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:32:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (510).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:32:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (510).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:32:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:32:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:32:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:32:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:32:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:32:27] [INFO   ] Base de données fermée
+[2026-03-25 18:32:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:32:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:32:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:32:27] [INFO   ] Base de données fermée
+[2026-03-25 18:32:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:32:28] [INFO   ] Base de données fermée
+[2026-03-25 18:32:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:32:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:32:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:33:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:33:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:33:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:33:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:33:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:33:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:33:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:33:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:33:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:33:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:33:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:33:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:33:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:33:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (511).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:33:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (511).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:33:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:33:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:33:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:33:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:33:27] [INFO   ] Base de données fermée
+[2026-03-25 18:33:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:33:28] [INFO   ] Base de données fermée
+[2026-03-25 18:33:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:33:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:33:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:33:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:33:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:33:28] [INFO   ] Scanner initialisé
+[2026-03-25 18:33:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (512).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:33:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (512).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:33:28] [INFO   ] Rapport JSON généré
+[2026-03-25 18:33:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:33:28] [INFO   ] Base de données initialisée
+[2026-03-25 18:33:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:33:28] [INFO   ] Base de données fermée
+[2026-03-25 18:33:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:33:28] [INFO   ] Base de données fermée
+[2026-03-25 18:33:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:33:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:33:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:34:06] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:34:06] [INFO   ] AV-Shield démarré
+[2026-03-25 18:34:06] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:34:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:34:06] [INFO   ] Base de données initialisée
+[2026-03-25 18:34:07] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 18:34:07] [INFO   ] AV-Shield démarré
+[2026-03-25 18:34:07] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 18:34:07] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:34:07] [INFO   ] Base de données initialisée
+[2026-03-25 18:34:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:34:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:34:26] [INFO   ] Scanner initialisé
+[2026-03-25 18:34:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (513).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:34:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (513).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:34:26] [INFO   ] Rapport JSON généré
+[2026-03-25 18:34:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:34:26] [INFO   ] Base de données initialisée
+[2026-03-25 18:34:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:34:26] [INFO   ] Base de données fermée
+[2026-03-25 18:34:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 18:34:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 18:34:27] [INFO   ] Scanner initialisé
+[2026-03-25 18:34:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (514).xml → CLEAN (confiance: 90%)
+[2026-03-25 18:34:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (514).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 18:34:27] [INFO   ] Rapport JSON généré
+[2026-03-25 18:34:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 18:34:27] [INFO   ] Base de données initialisée
+[2026-03-25 18:34:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 18:34:27] [INFO   ] Base de données fermée
+[2026-03-25 18:34:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:34:27] [INFO   ] Base de données fermée
+[2026-03-25 18:34:27] [INFO   ] Scanner nettoyé
+[2026-03-25 18:34:27] [INFO   ] AV-Shield terminé
+[2026-03-25 18:34:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 18:34:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 18:34:28] [INFO   ] Base de données fermée
+[2026-03-25 18:34:28] [INFO   ] Scanner nettoyé
+[2026-03-25 18:34:28] [INFO   ] AV-Shield terminé
+[2026-03-25 18:34:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:07:47] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:07:47] [INFO   ] AV-Shield démarré
+[2026-03-25 21:07:47] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:07:47] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:07:47] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:08:01] [INFO   ] AV-Shield démarré
+[2026-03-25 21:08:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:08:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:08:01] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:02] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:08:02] [INFO   ] AV-Shield démarré
+[2026-03-25 21:08:02] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:08:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:08:02] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:09] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:08:09] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:08:09] [INFO   ] Scanner initialisé
+[2026-03-25 21:08:09] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-1836.log → CLEAN (confiance: 90%)
+[2026-03-25 21:08:09] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-1836.log | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:08:09] [INFO   ] Rapport JSON généré
+[2026-03-25 21:08:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:08:09] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:10] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:08:10] [INFO   ] Base de données fermée
+[2026-03-25 21:08:11] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:08:11] [INFO   ] Base de données fermée
+[2026-03-25 21:08:11] [INFO   ] Scanner nettoyé
+[2026-03-25 21:08:11] [INFO   ] AV-Shield terminé
+[2026-03-25 21:08:11] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:08:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:08:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:08:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:08:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (515).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:08:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (515).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:08:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:08:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:08:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:08:28] [INFO   ] Base de données fermée
+[2026-03-25 21:08:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:08:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:08:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:08:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (516).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:08:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (516).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:08:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:08:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:08:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:08:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:08:28] [INFO   ] Base de données fermée
+[2026-03-25 21:08:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:08:28] [INFO   ] Base de données fermée
+[2026-03-25 21:08:28] [INFO   ] Scanner nettoyé
+[2026-03-25 21:08:28] [INFO   ] AV-Shield terminé
+[2026-03-25 21:08:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:08:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:08:29] [INFO   ] Base de données fermée
+[2026-03-25 21:08:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:08:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:08:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:09:20] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:09:20] [INFO   ] AV-Shield démarré
+[2026-03-25 21:09:20] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:09:20] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:09:20] [INFO   ] Base de données initialisée
+[2026-03-25 21:09:39] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:09:39] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:09:39] [INFO   ] Scanner initialisé
+[2026-03-25 21:09:39] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:09:39] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:09:39] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 21:09:39] [INFO   ] Rapport JSON généré
+[2026-03-25 21:09:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:09:39] [INFO   ] Base de données initialisée
+[2026-03-25 21:09:39] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:09:39] [INFO   ] Base de données fermée
+[2026-03-25 21:09:40] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:09:40] [INFO   ] Base de données fermée
+[2026-03-25 21:09:40] [INFO   ] Scanner nettoyé
+[2026-03-25 21:09:40] [INFO   ] AV-Shield terminé
+[2026-03-25 21:09:40] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:13:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:13:08] [INFO   ] AV-Shield démarré
+[2026-03-25 21:13:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:13:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:13:08] [INFO   ] Base de données initialisée
+[2026-03-25 21:13:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:13:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:13:26] [INFO   ] Scanner initialisé
+[2026-03-25 21:13:26] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:13:26] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\test_eicar10.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:13:26] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\test_eicar10.txt
+[2026-03-25 21:13:26] [INFO   ] Rapport JSON généré
+[2026-03-25 21:13:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:13:26] [INFO   ] Base de données initialisée
+[2026-03-25 21:13:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:13:26] [INFO   ] Base de données fermée
+[2026-03-25 21:13:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:13:27] [INFO   ] Base de données fermée
+[2026-03-25 21:13:27] [INFO   ] Scanner nettoyé
+[2026-03-25 21:13:27] [INFO   ] AV-Shield terminé
+[2026-03-25 21:13:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:19:39] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:19:39] [INFO   ] AV-Shield démarré
+[2026-03-25 21:19:39] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:19:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:19:39] [INFO   ] Base de données initialisée
+[2026-03-25 21:19:58] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:19:58] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:19:58] [INFO   ] Scanner initialisé
+[2026-03-25 21:19:58] [THREAT ] CLAMAV DETECTED: Eicar-Signature IN: C:\Users\Dell Latitude\Downloads\malware_test.txt
+[2026-03-25 21:19:58] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\malware_test.txt → MALWARE (confiance: 95%)
+[2026-03-25 21:19:58] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:19:58] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\malware_test.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:19:58] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\malware_test.txt
+[2026-03-25 21:19:58] [INFO   ] Rapport JSON généré
+[2026-03-25 21:19:58] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:19:58] [INFO   ] Base de données initialisée
+[2026-03-25 21:19:58] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:19:58] [INFO   ] Base de données fermée
+[2026-03-25 21:19:59] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:19:59] [INFO   ] Base de données fermée
+[2026-03-25 21:19:59] [INFO   ] Scanner nettoyé
+[2026-03-25 21:19:59] [INFO   ] AV-Shield terminé
+[2026-03-25 21:19:59] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:21:28] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:21:28] [INFO   ] AV-Shield démarré
+[2026-03-25 21:21:28] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:21:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:21:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:21:49] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:21:49] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:21:49] [INFO   ] Scanner initialisé
+[2026-03-25 21:21:49] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-10364.log → CLEAN (confiance: 90%)
+[2026-03-25 21:21:49] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-10364.log | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:21:49] [INFO   ] Rapport JSON généré
+[2026-03-25 21:21:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:21:49] [INFO   ] Base de données initialisée
+[2026-03-25 21:21:49] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:21:49] [INFO   ] Base de données fermée
+[2026-03-25 21:21:49] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:21:49] [INFO   ] Base de données fermée
+[2026-03-25 21:21:49] [INFO   ] Scanner nettoyé
+[2026-03-25 21:21:49] [INFO   ] AV-Shield terminé
+[2026-03-25 21:21:49] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:23:02] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:23:02] [INFO   ] AV-Shield démarré
+[2026-03-25 21:23:02] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:23:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:23:02] [INFO   ] Base de données initialisée
+[2026-03-25 21:23:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:23:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:23:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:23:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:23:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:23:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:23:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:23:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:23:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (517).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:23:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (517).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:23:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:23:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:23:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:23:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:23:28] [INFO   ] Base de données fermée
+[2026-03-25 21:23:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:23:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:23:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:23:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (518).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:23:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (518).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:23:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:23:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:23:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:23:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:23:28] [INFO   ] Base de données fermée
+[2026-03-25 21:23:28] [INFO   ] Scanner nettoyé
+[2026-03-25 21:23:28] [INFO   ] AV-Shield terminé
+[2026-03-25 21:23:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:23:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:23:28] [INFO   ] Base de données fermée
+[2026-03-25 21:23:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:23:29] [INFO   ] Base de données fermée
+[2026-03-25 21:23:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:23:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:23:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:24:02] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:24:02] [INFO   ] AV-Shield démarré
+[2026-03-25 21:24:02] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:24:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:24:02] [INFO   ] Base de données initialisée
+[2026-03-25 21:24:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:24:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:24:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:24:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:24:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:24:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:24:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:24:27] [INFO   ] Scanner initialisé
+[2026-03-25 21:24:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (519).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:24:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (519).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:24:27] [INFO   ] Rapport JSON généré
+[2026-03-25 21:24:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:24:27] [INFO   ] Base de données initialisée
+[2026-03-25 21:24:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:24:28] [INFO   ] Base de données fermée
+[2026-03-25 21:24:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:24:28] [INFO   ] Base de données fermée
+[2026-03-25 21:24:28] [INFO   ] Scanner nettoyé
+[2026-03-25 21:24:28] [INFO   ] AV-Shield terminé
+[2026-03-25 21:24:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:24:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:24:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:24:29] [INFO   ] Scanner initialisé
+[2026-03-25 21:24:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (520).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:24:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (520).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:24:29] [INFO   ] Rapport JSON généré
+[2026-03-25 21:24:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:24:29] [INFO   ] Base de données initialisée
+[2026-03-25 21:24:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:24:29] [INFO   ] Base de données fermée
+[2026-03-25 21:24:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:24:29] [INFO   ] Base de données fermée
+[2026-03-25 21:24:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:24:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:24:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:25:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:25:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:25:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:25:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:25:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:25:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:25:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:25:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:25:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:25:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:25:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:25:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:25:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:25:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (521).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:25:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (521).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:25:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:25:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:25:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:25:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:25:28] [INFO   ] Base de données fermée
+[2026-03-25 21:25:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:25:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:25:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:25:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (522).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:25:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (522).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:25:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:25:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:25:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:25:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:25:28] [INFO   ] Base de données fermée
+[2026-03-25 21:25:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:25:29] [INFO   ] Base de données fermée
+[2026-03-25 21:25:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:25:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:25:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:25:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:25:29] [INFO   ] Base de données fermée
+[2026-03-25 21:25:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:25:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:25:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:26:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:26:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:26:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:26:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:26:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:26:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:26:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:26:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:26:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:26:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:26:28] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:26:28] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:26:28] [INFO   ] Scanner initialisé
+[2026-03-25 21:26:28] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (523).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:26:28] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (523).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:26:28] [INFO   ] Rapport JSON généré
+[2026-03-25 21:26:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:26:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:26:28] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:26:28] [INFO   ] Base de données fermée
+[2026-03-25 21:26:29] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:26:29] [INFO   ] Base de données fermée
+[2026-03-25 21:26:29] [INFO   ] Scanner nettoyé
+[2026-03-25 21:26:29] [INFO   ] AV-Shield terminé
+[2026-03-25 21:26:29] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:26:29] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:26:29] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:26:29] [INFO   ] Scanner initialisé
+[2026-03-25 21:26:29] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (524).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:26:29] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (524).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:26:29] [INFO   ] Rapport JSON généré
+[2026-03-25 21:26:29] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:26:29] [INFO   ] Base de données initialisée
+[2026-03-25 21:26:29] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:26:29] [INFO   ] Base de données fermée
+[2026-03-25 21:26:30] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:26:30] [INFO   ] Base de données fermée
+[2026-03-25 21:26:30] [INFO   ] Scanner nettoyé
+[2026-03-25 21:26:30] [INFO   ] AV-Shield terminé
+[2026-03-25 21:26:30] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:27:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:27:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:27:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:27:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:27:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:27:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:27:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:27:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:27:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:27:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:27:25] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:27:25] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:27:25] [INFO   ] Scanner initialisé
+[2026-03-25 21:27:25] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (525).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:27:25] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (525).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:27:25] [INFO   ] Rapport JSON généré
+[2026-03-25 21:27:25] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:27:25] [INFO   ] Base de données initialisée
+[2026-03-25 21:27:25] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:27:25] [INFO   ] Base de données fermée
+[2026-03-25 21:27:26] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:27:26] [INFO   ] Base de données fermée
+[2026-03-25 21:27:26] [INFO   ] Scanner nettoyé
+[2026-03-25 21:27:26] [INFO   ] AV-Shield terminé
+[2026-03-25 21:27:26] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:27:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:27:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:27:26] [INFO   ] Scanner initialisé
+[2026-03-25 21:27:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (526).xml → CLEAN (confiance: 90%)
+[2026-03-25 21:27:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (526).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 21:27:26] [INFO   ] Rapport JSON généré
+[2026-03-25 21:27:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:27:26] [INFO   ] Base de données initialisée
+[2026-03-25 21:27:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:27:26] [INFO   ] Base de données fermée
+[2026-03-25 21:27:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:27:27] [INFO   ] Base de données fermée
+[2026-03-25 21:27:27] [INFO   ] Scanner nettoyé
+[2026-03-25 21:27:27] [INFO   ] AV-Shield terminé
+[2026-03-25 21:27:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:33:47] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:33:47] [INFO   ] AV-Shield démarré
+[2026-03-25 21:33:47] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:33:47] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:33:47] [INFO   ] Base de données initialisée
+[2026-03-25 21:34:05] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:34:05] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:34:05] [INFO   ] Scanner initialisé
+[2026-03-25 21:34:05] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\fix_graph.py → CLEAN (confiance: 90%)
+[2026-03-25 21:34:05] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\fix_graph.py | RESULT: CLEAN      | SHA256: da3632c093f6da9b... | SIZE: 2057 bytes
+[2026-03-25 21:34:05] [INFO   ] Rapport JSON généré
+[2026-03-25 21:34:05] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:34:05] [INFO   ] Base de données initialisée
+[2026-03-25 21:34:05] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:34:05] [INFO   ] Base de données fermée
+[2026-03-25 21:34:05] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:34:05] [INFO   ] Base de données fermée
+[2026-03-25 21:34:05] [INFO   ] Scanner nettoyé
+[2026-03-25 21:34:05] [INFO   ] AV-Shield terminé
+[2026-03-25 21:34:05] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:36:17] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:36:17] [INFO   ] AV-Shield démarré
+[2026-03-25 21:36:17] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:36:17] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:36:17] [INFO   ] Base de données initialisée
+[2026-03-25 21:36:34] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:36:34] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:36:34] [INFO   ] Scanner initialisé
+[2026-03-25 21:36:34] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\fix_stats_dashboard.py → CLEAN (confiance: 90%)
+[2026-03-25 21:36:34] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\fix_stats_dashboard.py | RESULT: CLEAN      | SHA256: 24eb3f53212a1b8c... | SIZE: 809 bytes
+[2026-03-25 21:36:34] [INFO   ] Rapport JSON généré
+[2026-03-25 21:36:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:36:34] [INFO   ] Base de données initialisée
+[2026-03-25 21:36:34] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:36:34] [INFO   ] Base de données fermée
+[2026-03-25 21:36:35] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:36:35] [INFO   ] Base de données fermée
+[2026-03-25 21:36:35] [INFO   ] Scanner nettoyé
+[2026-03-25 21:36:35] [INFO   ] AV-Shield terminé
+[2026-03-25 21:36:35] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:37:58] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:37:58] [INFO   ] AV-Shield démarré
+[2026-03-25 21:37:58] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:37:58] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:37:58] [INFO   ] Base de données initialisée
+[2026-03-25 21:38:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:38:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:38:15] [INFO   ] Scanner initialisé
+[2026-03-25 21:38:15] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 21:38:15] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:38:15] [THREAT ] FILE: C:\av-shield\eicar.txt                   | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:38:15] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\av-shield\eicar.txt
+[2026-03-25 21:38:15] [INFO   ] Rapport JSON généré
+[2026-03-25 21:38:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:38:15] [INFO   ] Base de données initialisée
+[2026-03-25 21:38:16] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:38:16] [INFO   ] Base de données fermée
+[2026-03-25 21:38:16] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:38:16] [INFO   ] Base de données fermée
+[2026-03-25 21:38:16] [INFO   ] Scanner nettoyé
+[2026-03-25 21:38:16] [INFO   ] AV-Shield terminé
+[2026-03-25 21:38:16] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:45:43] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:45:43] [INFO   ] AV-Shield démarré
+[2026-03-25 21:45:43] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:45:43] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:45:43] [INFO   ] Base de données initialisée
+[2026-03-25 21:46:03] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:46:03] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:46:03] [INFO   ] Scanner initialisé
+[2026-03-25 21:46:03] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:46:03] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus1.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:46:03] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus1.txt
+[2026-03-25 21:46:03] [INFO   ] Rapport JSON généré
+[2026-03-25 21:46:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:46:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:46:03] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:46:03] [INFO   ] Base de données fermée
+[2026-03-25 21:46:03] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:46:03] [INFO   ] Base de données fermée
+[2026-03-25 21:46:03] [INFO   ] Scanner nettoyé
+[2026-03-25 21:46:03] [INFO   ] AV-Shield terminé
+[2026-03-25 21:46:03] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:46:51] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:46:51] [INFO   ] AV-Shield démarré
+[2026-03-25 21:46:51] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:46:51] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:46:51] [INFO   ] Base de données initialisée
+[2026-03-25 21:47:09] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:47:09] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:47:09] [INFO   ] Scanner initialisé
+[2026-03-25 21:47:09] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 21:47:09] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:47:09] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus1.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:47:09] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus1.txt
+[2026-03-25 21:47:09] [INFO   ] Rapport JSON généré
+[2026-03-25 21:47:09] [INFO   ] Rapport HTML généré
+[2026-03-25 21:47:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:47:09] [INFO   ] Base de données initialisée
+[2026-03-25 21:47:09] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:47:09] [INFO   ] Base de données fermée
+[2026-03-25 21:47:09] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:47:09] [INFO   ] Base de données fermée
+[2026-03-25 21:47:09] [INFO   ] Scanner nettoyé
+[2026-03-25 21:47:09] [INFO   ] AV-Shield terminé
+[2026-03-25 21:47:09] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:49:52] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:49:52] [INFO   ] AV-Shield démarré
+[2026-03-25 21:49:52] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:49:52] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:49:52] [INFO   ] Base de données initialisée
+[2026-03-25 21:50:11] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:50:11] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:50:11] [INFO   ] Scanner initialisé
+[2026-03-25 21:50:11] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:50:12] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus2.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:50:12] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus2.txt
+[2026-03-25 21:50:12] [INFO   ] Rapport JSON généré
+[2026-03-25 21:50:12] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:50:12] [INFO   ] Base de données initialisée
+[2026-03-25 21:50:12] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:50:12] [INFO   ] Base de données fermée
+[2026-03-25 21:50:12] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:50:12] [INFO   ] Base de données fermée
+[2026-03-25 21:50:12] [INFO   ] Scanner nettoyé
+[2026-03-25 21:50:12] [INFO   ] AV-Shield terminé
+[2026-03-25 21:50:12] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:50:49] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:50:49] [INFO   ] AV-Shield démarré
+[2026-03-25 21:50:49] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:50:49] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:50:49] [INFO   ] Base de données initialisée
+[2026-03-25 21:51:06] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:51:06] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:51:06] [INFO   ] Scanner initialisé
+[2026-03-25 21:51:06] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 21:51:06] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 21:51:06] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus2.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 21:51:06] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus2.txt
+[2026-03-25 21:51:06] [INFO   ] Rapport JSON généré
+[2026-03-25 21:51:06] [INFO   ] Rapport HTML généré
+[2026-03-25 21:51:06] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:51:06] [INFO   ] Base de données initialisée
+[2026-03-25 21:51:06] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:51:06] [INFO   ] Base de données fermée
+[2026-03-25 21:51:06] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:51:06] [INFO   ] Base de données fermée
+[2026-03-25 21:51:06] [INFO   ] Scanner nettoyé
+[2026-03-25 21:51:06] [INFO   ] AV-Shield terminé
+[2026-03-25 21:51:06] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:51:28] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:51:28] [INFO   ] AV-Shield démarré
+[2026-03-25 21:51:28] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:51:28] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:51:28] [INFO   ] Base de données initialisée
+[2026-03-25 21:51:46] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:51:46] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:51:46] [INFO   ] Scanner initialisé
+[2026-03-25 21:51:46] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_virus2.txt_2026-03-25.html → CLEAN (confiance: 90%)
+[2026-03-25 21:51:46] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_virus2.txt_2026-03-25.html | RESULT: CLEAN      | SHA256: 78cd1f500f33b82d... | SIZE: 4726 bytes
+[2026-03-25 21:51:46] [INFO   ] Rapport JSON généré
+[2026-03-25 21:51:46] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:51:46] [INFO   ] Base de données initialisée
+[2026-03-25 21:51:46] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:51:46] [INFO   ] Base de données fermée
+[2026-03-25 21:51:46] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:51:46] [INFO   ] Base de données fermée
+[2026-03-25 21:51:46] [INFO   ] Scanner nettoyé
+[2026-03-25 21:51:46] [INFO   ] AV-Shield terminé
+[2026-03-25 21:51:46] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:54:31] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:54:31] [INFO   ] AV-Shield démarré
+[2026-03-25 21:54:31] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:54:31] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:54:31] [INFO   ] Base de données initialisée
+[2026-03-25 21:54:52] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:54:52] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:54:52] [INFO   ] Scanner initialisé
+[2026-03-25 21:54:52] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_virus2.txt_2026-03-25 (1).html → CLEAN (confiance: 90%)
+[2026-03-25 21:54:52] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_virus2.txt_2026-03-25 (1).html | RESULT: CLEAN      | SHA256: 7c12feaeafab8aa0... | SIZE: 5584 bytes
+[2026-03-25 21:54:52] [INFO   ] Rapport JSON généré
+[2026-03-25 21:54:52] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:54:52] [INFO   ] Base de données initialisée
+[2026-03-25 21:54:52] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:54:52] [INFO   ] Base de données fermée
+[2026-03-25 21:54:52] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:54:52] [INFO   ] Base de données fermée
+[2026-03-25 21:54:52] [INFO   ] Scanner nettoyé
+[2026-03-25 21:54:52] [INFO   ] AV-Shield terminé
+[2026-03-25 21:54:52] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:57:14] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:57:14] [INFO   ] AV-Shield démarré
+[2026-03-25 21:57:14] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:57:14] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:57:14] [INFO   ] Base de données initialisée
+[2026-03-25 21:57:34] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:57:34] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:57:34] [INFO   ] Scanner initialisé
+[2026-03-25 21:57:34] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect1.py → CLEAN (confiance: 90%)
+[2026-03-25 21:57:34] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\suspect1.py | RESULT: CLEAN      | SHA256: 21839234f13eee2f... | SIZE: 185 bytes
+[2026-03-25 21:57:34] [INFO   ] Rapport JSON généré
+[2026-03-25 21:57:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:57:34] [INFO   ] Base de données initialisée
+[2026-03-25 21:57:34] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:57:34] [INFO   ] Base de données fermée
+[2026-03-25 21:57:35] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:57:35] [INFO   ] Base de données fermée
+[2026-03-25 21:57:35] [INFO   ] Scanner nettoyé
+[2026-03-25 21:57:35] [INFO   ] AV-Shield terminé
+[2026-03-25 21:57:35] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 21:59:03] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 21:59:03] [INFO   ] AV-Shield démarré
+[2026-03-25 21:59:03] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 21:59:03] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:59:03] [INFO   ] Base de données initialisée
+[2026-03-25 21:59:22] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 21:59:22] [INFO   ] Quarantaine initialisée
+[2026-03-25 21:59:22] [INFO   ] Scanner initialisé
+[2026-03-25 21:59:22] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect_win.bat → CLEAN (confiance: 90%)
+[2026-03-25 21:59:22] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\suspect_win.bat | RESULT: CLEAN      | SHA256: 9559fb7501c94734... | SIZE: 319 bytes
+[2026-03-25 21:59:22] [INFO   ] Rapport JSON généré
+[2026-03-25 21:59:22] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 21:59:22] [INFO   ] Base de données initialisée
+[2026-03-25 21:59:22] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 21:59:22] [INFO   ] Base de données fermée
+[2026-03-25 21:59:22] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 21:59:22] [INFO   ] Base de données fermée
+[2026-03-25 21:59:22] [INFO   ] Scanner nettoyé
+[2026-03-25 21:59:22] [INFO   ] AV-Shield terminé
+[2026-03-25 21:59:22] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:00:33] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:00:33] [INFO   ] AV-Shield démarré
+[2026-03-25 22:00:33] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:00:33] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:00:33] [INFO   ] Base de données initialisée
+[2026-03-25 22:00:54] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:00:54] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:00:54] [INFO   ] Scanner initialisé
+[2026-03-25 22:00:54] [INFO   ] Corrélation: C:\av-shield\testheuristic.sh → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:00:54] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 22:00:54] [WARNING] FILE: C:\av-shield\testheuristic.sh            | RESULT: SUSPICIOUS | SHA256: ddf2a5a9e6409991... | SIZE: 153 bytes
+[2026-03-25 22:00:54] [INFO   ] Rapport JSON généré
+[2026-03-25 22:00:54] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:00:54] [INFO   ] Base de données initialisée
+[2026-03-25 22:00:54] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:00:54] [INFO   ] Base de données fermée
+[2026-03-25 22:00:55] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:00:55] [INFO   ] Base de données fermée
+[2026-03-25 22:00:55] [INFO   ] Scanner nettoyé
+[2026-03-25 22:00:55] [INFO   ] AV-Shield terminé
+[2026-03-25 22:00:55] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:03:08] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:03:08] [INFO   ] AV-Shield démarré
+[2026-03-25 22:03:08] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:03:08] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:03:08] [INFO   ] Base de données initialisée
+[2026-03-25 22:03:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:03:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:03:26] [INFO   ] Scanner initialisé
+[2026-03-25 22:03:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\rapport_ia_C__av-shield_estheuristic.sh_2026-03-25.html → CLEAN (confiance: 90%)
+[2026-03-25 22:03:26] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\rapport_ia_C__av-shield_estheuristic.sh_2026-03-25.html | RESULT: CLEAN      | SHA256: a1eeff7f53b55af6... | SIZE: 4271 bytes
+[2026-03-25 22:03:26] [INFO   ] Rapport JSON généré
+[2026-03-25 22:03:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:03:26] [INFO   ] Base de données initialisée
+[2026-03-25 22:03:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:03:26] [INFO   ] Base de données fermée
+[2026-03-25 22:03:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:03:27] [INFO   ] Base de données fermée
+[2026-03-25 22:03:27] [INFO   ] Scanner nettoyé
+[2026-03-25 22:03:27] [INFO   ] AV-Shield terminé
+[2026-03-25 22:03:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:03:55] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:03:55] [INFO   ] AV-Shield démarré
+[2026-03-25 22:03:55] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:03:55] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:03:55] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:00] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:04:00] [INFO   ] AV-Shield démarré
+[2026-03-25 22:04:00] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:04:00] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:00] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:04:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:04:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:04:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:04:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:04:15] [INFO   ] Scanner initialisé
+[2026-03-25 22:04:15] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\create_suspect.py → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:04:15] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\create_suspect.py | RESULT: SUSPICIOUS | SHA256: 0e39479be1d73ace... | SIZE: 876 bytes
+[2026-03-25 22:04:15] [INFO   ] Rapport JSON généré
+[2026-03-25 22:04:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:15] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:15] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:04:15] [INFO   ] Base de données fermée
+[2026-03-25 22:04:15] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:04:15] [INFO   ] Base de données fermée
+[2026-03-25 22:04:15] [INFO   ] Scanner nettoyé
+[2026-03-25 22:04:15] [INFO   ] AV-Shield terminé
+[2026-03-25 22:04:15] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:04:23] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:04:23] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:04:23] [INFO   ] Scanner initialisé
+[2026-03-25 22:04:23] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (527).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:04:23] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (527).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:04:23] [INFO   ] Rapport JSON généré
+[2026-03-25 22:04:23] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:23] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:23] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:04:23] [INFO   ] Base de données fermée
+[2026-03-25 22:04:24] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:04:24] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:04:24] [INFO   ] Scanner initialisé
+[2026-03-25 22:04:24] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (528).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:04:24] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (528).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:04:24] [INFO   ] Rapport JSON généré
+[2026-03-25 22:04:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:24] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:24] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:04:24] [INFO   ] Base de données fermée
+[2026-03-25 22:04:24] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:04:24] [INFO   ] Base de données fermée
+[2026-03-25 22:04:24] [INFO   ] Scanner nettoyé
+[2026-03-25 22:04:24] [INFO   ] AV-Shield terminé
+[2026-03-25 22:04:24] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:04:25] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:04:25] [INFO   ] Base de données fermée
+[2026-03-25 22:04:25] [INFO   ] Scanner nettoyé
+[2026-03-25 22:04:25] [INFO   ] AV-Shield terminé
+[2026-03-25 22:04:25] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:04:25] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:04:25] [INFO   ] AV-Shield démarré
+[2026-03-25 22:04:25] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:04:25] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:25] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:44] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:04:44] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:04:44] [INFO   ] Scanner initialisé
+[2026-03-25 22:04:44] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect_multi.bat → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:04:44] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\suspect_multi.bat | RESULT: SUSPICIOUS | SHA256: c745059f512c64e1... | SIZE: 696 bytes
+[2026-03-25 22:04:44] [INFO   ] Rapport JSON généré
+[2026-03-25 22:04:44] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:04:44] [INFO   ] Base de données initialisée
+[2026-03-25 22:04:44] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:04:44] [INFO   ] Base de données fermée
+[2026-03-25 22:04:44] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:04:44] [INFO   ] Base de données fermée
+[2026-03-25 22:04:44] [INFO   ] Scanner nettoyé
+[2026-03-25 22:04:44] [INFO   ] AV-Shield terminé
+[2026-03-25 22:04:44] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:05:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:05:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:05:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:05:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:05:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:05:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:05:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:05:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:05:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:05:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:05:23] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:05:23] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:05:23] [INFO   ] Scanner initialisé
+[2026-03-25 22:05:23] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (529).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:05:23] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (529).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:05:23] [INFO   ] Rapport JSON généré
+[2026-03-25 22:05:23] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:05:23] [INFO   ] Base de données initialisée
+[2026-03-25 22:05:23] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:05:23] [INFO   ] Base de données fermée
+[2026-03-25 22:05:23] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:05:23] [INFO   ] Base de données fermée
+[2026-03-25 22:05:23] [INFO   ] Scanner nettoyé
+[2026-03-25 22:05:23] [INFO   ] AV-Shield terminé
+[2026-03-25 22:05:23] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:05:24] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:05:24] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:05:24] [INFO   ] Scanner initialisé
+[2026-03-25 22:05:24] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (530).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:05:24] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (530).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:05:24] [INFO   ] Rapport JSON généré
+[2026-03-25 22:05:24] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:05:24] [INFO   ] Base de données initialisée
+[2026-03-25 22:05:24] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:05:24] [INFO   ] Base de données fermée
+[2026-03-25 22:05:24] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:05:24] [INFO   ] Base de données fermée
+[2026-03-25 22:05:24] [INFO   ] Scanner nettoyé
+[2026-03-25 22:05:24] [INFO   ] AV-Shield terminé
+[2026-03-25 22:05:24] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:06:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:06:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:06:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:06:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:06:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:06:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:06:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:06:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:06:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:06:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:06:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:06:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:06:26] [INFO   ] Scanner initialisé
+[2026-03-25 22:06:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (531).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:06:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (531).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:06:26] [INFO   ] Rapport JSON généré
+[2026-03-25 22:06:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:06:26] [INFO   ] Base de données initialisée
+[2026-03-25 22:06:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:06:26] [INFO   ] Base de données fermée
+[2026-03-25 22:06:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:06:27] [INFO   ] Base de données fermée
+[2026-03-25 22:06:27] [INFO   ] Scanner nettoyé
+[2026-03-25 22:06:27] [INFO   ] AV-Shield terminé
+[2026-03-25 22:06:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:06:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:06:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:06:27] [INFO   ] Scanner initialisé
+[2026-03-25 22:06:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (532).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:06:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (532).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:06:27] [INFO   ] Rapport JSON généré
+[2026-03-25 22:06:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:06:27] [INFO   ] Base de données initialisée
+[2026-03-25 22:06:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:06:27] [INFO   ] Base de données fermée
+[2026-03-25 22:06:28] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:06:28] [INFO   ] Base de données fermée
+[2026-03-25 22:06:28] [INFO   ] Scanner nettoyé
+[2026-03-25 22:06:28] [INFO   ] AV-Shield terminé
+[2026-03-25 22:06:28] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:07:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:07:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:07:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:07:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:07:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:07:01] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:07:01] [INFO   ] AV-Shield démarré
+[2026-03-25 22:07:01] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:07:01] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:07:01] [INFO   ] Base de données initialisée
+[2026-03-25 22:07:26] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:07:26] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:07:26] [INFO   ] Scanner initialisé
+[2026-03-25 22:07:26] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (533).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:07:26] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (533).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:07:26] [INFO   ] Rapport JSON généré
+[2026-03-25 22:07:26] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:07:26] [INFO   ] Base de données initialisée
+[2026-03-25 22:07:26] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:07:26] [INFO   ] Base de données fermée
+[2026-03-25 22:07:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:07:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:07:27] [INFO   ] Scanner initialisé
+[2026-03-25 22:07:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (534).xml → CLEAN (confiance: 90%)
+[2026-03-25 22:07:27] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\xml_file (534).xml | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:07:27] [INFO   ] Rapport JSON généré
+[2026-03-25 22:07:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:07:27] [INFO   ] Base de données initialisée
+[2026-03-25 22:07:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:07:27] [INFO   ] Base de données fermée
+[2026-03-25 22:07:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:07:27] [INFO   ] Base de données fermée
+[2026-03-25 22:07:27] [INFO   ] Scanner nettoyé
+[2026-03-25 22:07:27] [INFO   ] AV-Shield terminé
+[2026-03-25 22:07:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:07:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:07:27] [INFO   ] Base de données fermée
+[2026-03-25 22:07:27] [INFO   ] Scanner nettoyé
+[2026-03-25 22:07:27] [INFO   ] AV-Shield terminé
+[2026-03-25 22:07:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:10:15] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:10:15] [INFO   ] AV-Shield démarré
+[2026-03-25 22:10:15] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:10:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:10:15] [INFO   ] Base de données initialisée
+[2026-03-25 22:10:34] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:10:34] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:10:34] [INFO   ] Scanner initialisé
+[2026-03-25 22:10:34] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect_ransomware.bat → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:10:34] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\suspect_ransomware.bat | RESULT: SUSPICIOUS | SHA256: 7355e45bfdeaca61... | SIZE: 282 bytes
+[2026-03-25 22:10:34] [INFO   ] Rapport JSON généré
+[2026-03-25 22:10:34] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:10:34] [INFO   ] Base de données initialisée
+[2026-03-25 22:10:34] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:10:34] [INFO   ] Base de données fermée
+[2026-03-25 22:10:35] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:10:35] [INFO   ] Base de données fermée
+[2026-03-25 22:10:35] [INFO   ] Scanner nettoyé
+[2026-03-25 22:10:35] [INFO   ] AV-Shield terminé
+[2026-03-25 22:10:35] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:11:09] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:11:09] [INFO   ] AV-Shield démarré
+[2026-03-25 22:11:09] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:11:09] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:11:09] [INFO   ] Base de données initialisée
+[2026-03-25 22:11:27] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:11:27] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:11:27] [INFO   ] Scanner initialisé
+[2026-03-25 22:11:27] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect_ransomware.bat → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:11:27] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 22:11:27] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\suspect_ransomware.bat | RESULT: SUSPICIOUS | SHA256: 7355e45bfdeaca61... | SIZE: 282 bytes
+[2026-03-25 22:11:27] [INFO   ] Rapport JSON généré
+[2026-03-25 22:11:27] [INFO   ] Rapport HTML généré
+[2026-03-25 22:11:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:11:27] [INFO   ] Base de données initialisée
+[2026-03-25 22:11:27] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:11:27] [INFO   ] Base de données fermée
+[2026-03-25 22:11:27] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:11:27] [INFO   ] Base de données fermée
+[2026-03-25 22:11:27] [INFO   ] Scanner nettoyé
+[2026-03-25 22:11:27] [INFO   ] AV-Shield terminé
+[2026-03-25 22:11:27] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:11:56] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:11:56] [INFO   ] AV-Shield démarré
+[2026-03-25 22:11:56] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:11:56] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:11:56] [INFO   ] Base de données initialisée
+[2026-03-25 22:12:14] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:12:14] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:12:14] [INFO   ] Scanner initialisé
+[2026-03-25 22:12:14] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_suspect_ransomware.bat_2026-03-25.html → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:12:14] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\rapport_ia_C__Users_Dell Latitude_Downloads_suspect_ransomware.bat_2026-03-25.html | RESULT: SUSPICIOUS | SHA256: f6c6b31cf679c49e... | SIZE: 5079 bytes
+[2026-03-25 22:12:14] [INFO   ] Rapport JSON généré
+[2026-03-25 22:12:14] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:12:14] [INFO   ] Base de données initialisée
+[2026-03-25 22:12:14] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:12:14] [INFO   ] Base de données fermée
+[2026-03-25 22:12:15] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:12:15] [INFO   ] Base de données fermée
+[2026-03-25 22:12:15] [INFO   ] Scanner nettoyé
+[2026-03-25 22:12:15] [INFO   ] AV-Shield terminé
+[2026-03-25 22:12:15] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:12:27] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:12:27] [INFO   ] AV-Shield démarré
+[2026-03-25 22:12:27] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:12:27] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:12:27] [INFO   ] Base de données initialisée
+[2026-03-25 22:12:46] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:12:46] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:12:46] [INFO   ] Scanner initialisé
+[2026-03-25 22:12:46] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\suspect_backdoor.sh → SUSPICIOUS (confiance: 65%)
+[2026-03-25 22:12:46] [WARNING] FILE: C:\Users\Dell Latitude\Downloads\suspect_backdoor.sh | RESULT: SUSPICIOUS | SHA256: d830fbc46166b879... | SIZE: 275 bytes
+[2026-03-25 22:12:46] [INFO   ] Rapport JSON généré
+[2026-03-25 22:12:46] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:12:46] [INFO   ] Base de données initialisée
+[2026-03-25 22:12:46] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:12:46] [INFO   ] Base de données fermée
+[2026-03-25 22:12:46] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:12:46] [INFO   ] Base de données fermée
+[2026-03-25 22:12:46] [INFO   ] Scanner nettoyé
+[2026-03-25 22:12:46] [INFO   ] AV-Shield terminé
+[2026-03-25 22:12:46] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:13:42] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:13:42] [INFO   ] AV-Shield démarré
+[2026-03-25 22:13:42] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:13:42] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:13:42] [INFO   ] Base de données initialisée
+[2026-03-25 22:14:02] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:14:02] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:14:02] [INFO   ] Scanner initialisé
+[2026-03-25 22:14:02] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\clean1.txt → CLEAN (confiance: 90%)
+[2026-03-25 22:14:02] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\clean1.txt | RESULT: CLEAN      | SHA256: e8eb73466d24089b... | SIZE: 85 bytes
+[2026-03-25 22:14:02] [INFO   ] Rapport JSON généré
+[2026-03-25 22:14:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:14:02] [INFO   ] Base de données initialisée
+[2026-03-25 22:14:02] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:14:02] [INFO   ] Base de données fermée
+[2026-03-25 22:14:02] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:14:02] [INFO   ] Base de données fermée
+[2026-03-25 22:14:02] [INFO   ] Scanner nettoyé
+[2026-03-25 22:14:02] [INFO   ] AV-Shield terminé
+[2026-03-25 22:14:02] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:14:20] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:14:20] [INFO   ] AV-Shield démarré
+[2026-03-25 22:14:20] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:14:20] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:14:20] [INFO   ] Base de données initialisée
+[2026-03-25 22:14:39] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:14:39] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:14:39] [INFO   ] Scanner initialisé
+[2026-03-25 22:14:39] [INFO   ] Corrélation: C:\Users\Dell Latitude\Downloads\clean1.txt → CLEAN (confiance: 90%)
+[2026-03-25 22:14:39] [INFO   ] FILE: C:\Users\Dell Latitude\Downloads\clean1.txt | RESULT: CLEAN      | SHA256: e8eb73466d24089b... | SIZE: 85 bytes
+[2026-03-25 22:14:39] [INFO   ] Rapport JSON généré
+[2026-03-25 22:14:39] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:14:39] [INFO   ] Base de données initialisée
+[2026-03-25 22:14:39] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:14:39] [INFO   ] Base de données fermée
+[2026-03-25 22:14:39] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:14:39] [INFO   ] Base de données fermée
+[2026-03-25 22:14:39] [INFO   ] Scanner nettoyé
+[2026-03-25 22:14:39] [INFO   ] AV-Shield terminé
+[2026-03-25 22:14:39] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:14:46] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:14:46] [INFO   ] AV-Shield démarré
+[2026-03-25 22:14:46] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:14:46] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:14:46] [INFO   ] Base de données initialisée
+[2026-03-25 22:15:04] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:15:04] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:15:04] [INFO   ] Scanner initialisé
+[2026-03-25 22:15:04] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 22:15:04] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus3.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 22:15:04] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus3.txt
+[2026-03-25 22:15:04] [INFO   ] Rapport JSON généré
+[2026-03-25 22:15:04] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:15:04] [INFO   ] Base de données initialisée
+[2026-03-25 22:15:04] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:15:04] [INFO   ] Base de données fermée
+[2026-03-25 22:15:04] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:15:04] [INFO   ] Base de données fermée
+[2026-03-25 22:15:04] [INFO   ] Scanner nettoyé
+[2026-03-25 22:15:04] [INFO   ] AV-Shield terminé
+[2026-03-25 22:15:04] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:15:45] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:15:45] [INFO   ] AV-Shield démarré
+[2026-03-25 22:15:45] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:15:45] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:15:45] [INFO   ] Base de données initialisée
+[2026-03-25 22:16:02] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:16:02] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:16:02] [INFO   ] Scanner initialisé
+[2026-03-25 22:16:02] [AUDIT  ] Fichier enregistré en quarantaine
+[2026-03-25 22:16:02] [THREAT ] Menace sauvegardée en base de données
+[2026-03-25 22:16:02] [THREAT ] FILE: C:\Users\Dell Latitude\Downloads\virus3.txt | RESULT: MALWARE    | SHA256: 275a021bbfb6489e... | SIZE: 68 bytes
+[2026-03-25 22:16:02] [THREAT ] THREAT DETECTED: Eicar-Signature | FILE: C:\Users\Dell Latitude\Downloads\virus3.txt
+[2026-03-25 22:16:02] [INFO   ] Rapport JSON généré
+[2026-03-25 22:16:02] [INFO   ] Rapport HTML généré
+[2026-03-25 22:16:02] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:16:02] [INFO   ] Base de données initialisée
+[2026-03-25 22:16:02] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:16:02] [INFO   ] Base de données fermée
+[2026-03-25 22:16:03] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:16:03] [INFO   ] Base de données fermée
+[2026-03-25 22:16:03] [INFO   ] Scanner nettoyé
+[2026-03-25 22:16:03] [INFO   ] AV-Shield terminé
+[2026-03-25 22:16:03] [INFO   ] === AV-Shield Logger fermé ===
+[2026-03-25 22:21:36] [INFO   ] === AV-Shield Logger initialisé ===
+[2026-03-25 22:21:36] [INFO   ] AV-Shield démarré
+[2026-03-25 22:21:36] [AUDIT  ] ACTION: START           | TARGET: avshield
+[2026-03-25 22:21:36] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:21:36] [INFO   ] Base de données initialisée
+[2026-03-25 22:22:15] [INFO   ] ClamAV initialisé: 3627731 signatures chargées
+[2026-03-25 22:22:15] [INFO   ] Quarantaine initialisée
+[2026-03-25 22:22:15] [INFO   ] Scanner initialisé
+[2026-03-25 22:22:15] [INFO   ] Corrélation: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-15016.log → CLEAN (confiance: 90%)
+[2026-03-25 22:22:15] [INFO   ] FILE: C:\Users\Dell Latitude\AppData\Local\Temp\mat-debug-15016.log | RESULT: CLEAN      | SHA256: e3b0c44298fc1c14... | SIZE: 0 bytes
+[2026-03-25 22:22:15] [INFO   ] Rapport JSON généré
+[2026-03-25 22:22:15] [INFO   ] Tables SQLite créées avec succès
+[2026-03-25 22:22:15] [INFO   ] Base de données initialisée
+[2026-03-25 22:22:15] [INFO   ] Scan sauvegardé en base de données
+[2026-03-25 22:22:15] [INFO   ] Base de données fermée
+[2026-03-25 22:22:16] [INFO   ] Moteur ClamAV libéré
+[2026-03-25 22:22:16] [INFO   ] Base de données fermée
+[2026-03-25 22:22:16] [INFO   ] Scanner nettoyé
+[2026-03-25 22:22:16] [INFO   ] AV-Shield terminé
+[2026-03-25 22:22:16] [INFO   ] === AV-Shield Logger fermé ===
