@@ -1,13 +1,13 @@
-from groq import Groq
+from google import genai
 
 try:
-    from config_local import GROQ_API_KEY
+    from config_local import GEMINI_API_KEY
 except:
-    GROQ_API_KEY = ""
+    GEMINI_API_KEY = ""
 
 def analyze_threat(filename, result, threat_name, heuristic_score, entropy):
-    client = Groq(api_key=GROQ_API_KEY)
-    
+    client = genai.Client(api_key=GEMINI_API_KEY)
+
     prompt = f"""Tu es un expert en cybersécurité. Analyse ce fichier détecté par un antivirus et réponds en français.
 
 Fichier : {filename}
@@ -34,12 +34,8 @@ Donne une analyse structurée avec exactement ces 5 sections :
 🔴 NIVEAU DE RISQUE : [FAIBLE / MOYEN / ÉLEVÉ / CRITIQUE]
 [Justification en 1 phrase]"""
 
-    response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
-        messages=[{"role": "user", "content": prompt}],
-        max_tokens=500,
-        temperature=0.3
+    response = client.models.generate_content(
+        model="gemini-2.0-flash",
+        contents=prompt
     )
-    
-    return response.choices[0].message.content
-
+    return response.text
