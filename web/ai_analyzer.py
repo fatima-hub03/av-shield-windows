@@ -35,7 +35,7 @@ Donne une analyse structurée avec exactement ces 5 sections :
 [Justification en 1 phrase]"""
 
     response = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-3.1-flash-lite-preview",
         contents=prompt
     )
     return response.text
