@@ -110,9 +110,9 @@
 <script src="{{ url_for('static', filename='js/main.js') }}"></script>
 <script>
 function parseAndDisplayAnalysis(text) {
-  const classMatch  = text.match(/🏷️ CLASSIFICATION\s*\n([\s\S]*?)(?=🎯|$)/);
-  const typeMatch   = text.match(/🎯 TYPE DE MENACE[\s\S]*?\n([\s\S]*?)(?=⚠️|$)/);
-  const dangerMatch = text.match(/⚠️ POURQUOI[\s\S]*?\n([\s\S]*?)(?=🛡️|$)/);
+  const classMatch  = text.match(/🏷️ CLASSIFICATION[\s\S]*?[\r\n]+([\s\S]*?)(?=🎯|$)/);
+  const typeMatch   = text.match(/🎯 TYPE DE MENACE[\s\S]*?[\r\n]+([\s\S]*?)(?=⚠️|$)/);
+  const dangerMatch = text.match(/⚠️ POURQUOI[\s\S]*?[\r\n]+([\s\S]*?)(?=🛡️|$)/);
   const recoMatch   = text.match(/RECOMMANDATIONS[^\n]*\n([\s\S]*?)(?=🔴|NIVEAU|$)/);
   const riskMatch   = text.match(/🔴 NIVEAU DE RISQUE\s*:\s*(FAIBLE|MOYEN|ÉLEVÉ|ELEVE|CRITIQUE)/i);
 

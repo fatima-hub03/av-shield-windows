@@ -16,7 +16,7 @@ Menace détectée : {threat_name if threat_name else 'Inconnue'}
 Score heuristique : {heuristic_score}/100
 Entropie : {entropy}
 
-Donne une analyse structurée avec exactement ces 5 sections :
+Donne une analyse structurée avec exactement ces 5 sections. IMPORTANT: N'utilise pas ** pour le gras, écris le texte normalement sans formatage markdown :
 
 🏷️ CLASSIFICATION
 [Choisis parmi : Trojan / Backdoor / Ransomware / Keylogger / Cryptominer / Script malveillant / Spyware / Worm / Adware / Code obfusqué / Inconnu]
